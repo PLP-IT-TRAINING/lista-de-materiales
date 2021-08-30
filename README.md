@@ -1,6 +1,6 @@
 # Lista de Materiales
 
-Hola, bienvenidos a PLP IT TRAINING !
+Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privados por Telegram.
 
 # Como empezar
 
