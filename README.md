@@ -24,6 +24,13 @@ https://argentinaprograma.com/
 
 Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. Super recomendado para aprender JavaScript y Front End con React.
 
+## Hacker Rank
+
+Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
+
+https://www.hackerrank.com/
+
+
 ## OTROS RECURSOS:
 
 1. How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year) https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
