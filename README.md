@@ -14,9 +14,14 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 
 https://www.freecodecamp.org/
 
-## LOGICA DE PROGRAMACION
+## Videos de Programacion Youtube (gratis)
 
 1. Videos con un curso de RAPTOR con logica de programacion, recomendado: https://www.youtube.com/playlist?list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7 
+
+2. Videos con un curso de PYTHON DESDE CERO, recomendado: https://www.youtube.com/watch?v=mENHDQ8SLsI&list=PLyvsggKtwbLW1j0d5yaCkRF9Axpdlhsxz
+
+3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
+
 
 ## /r/Argentina PROGRAMA 
 
