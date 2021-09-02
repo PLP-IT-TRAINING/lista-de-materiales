@@ -36,6 +36,11 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 https://www.hackerrank.com/
 
 
+## Apuntes
+
+1. Los apuntes de Majo https://losapuntesdemajo.vercel.app/
+
+
 ## OTROS RECURSOS:
 
 1. How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year) https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
