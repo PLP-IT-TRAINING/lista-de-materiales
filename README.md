@@ -98,5 +98,9 @@ https://www.hackerrank.com/
 
 2. Otro grupo de Telegram, de Especialistas IT: https://t.me/devsars
 
+## Con opcion de relocalizacion y/o Visa
 
+1. https://relocate.me/
+
+2. https://stackoverflow.com/jobs?v=true 
 
