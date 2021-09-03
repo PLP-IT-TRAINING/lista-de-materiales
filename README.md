@@ -100,7 +100,9 @@ https://www.hackerrank.com/
 
 ## Con opcion de relocalizacion y/o Visa
 
-1. https://relocate.me/
+1. Trabajos con relocation: https://relocate.me/
 
-2. https://stackoverflow.com/jobs?v=true 
+2. Trabajos en la bolsa de Stack Overflow, con visa: https://stackoverflow.com/jobs?v=true 
+
+3. Hacker News Hiring Board: http://www.hnhiring.me/ 
 
