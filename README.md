@@ -14,9 +14,12 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 
 https://www.freecodecamp.org/
 
-Una alternativa a FreeCodeCamp es The Odin Project:
 
-https://www.theodinproject.com/
+## /r/Argentina PROGRAMA 
+
+https://argentinaprograma.com/
+
+**Super recomendado** para aprender JavaScript y Front-End con React. Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
 
 
 ## Videos de Programacion Youtube (gratis)
@@ -28,11 +31,12 @@ https://www.theodinproject.com/
 3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 
 
-## /r/Argentina PROGRAMA 
+# The Odin Project
 
-https://argentinaprograma.com/
+Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
 
-Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. **Super recomendado** para aprender JavaScript y Front-End con React.
+https://www.theodinproject.com/
+
 
 ## Hacker Rank
 
