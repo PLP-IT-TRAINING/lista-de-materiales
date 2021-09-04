@@ -4,15 +4,20 @@ Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privad
 
 # Como empezar
 
-## HOJA DE RUTA PARA EMPEZAR
+## Hoja de Ruta: Empeza aca!
 
-1. ESTA ES LA MEJOR GUIA PARA SABER QUE HACER: https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/spanish
+1. Esta es la ruta de viaje para hacer front-end, back-end, y/o devops: https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/spanish
 
-## FREE CODE CAMP
+## FreeCodeCamp
 
 Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada curso te da un certificado. No te olvides de registrarte para ir guardando tus progresos!
 
 https://www.freecodecamp.org/
+
+Una alternativa a FreeCodeCamp es The Odin Project:
+
+https://www.theodinproject.com/
+
 
 ## Videos de Programacion Youtube (gratis)
 
@@ -27,7 +32,7 @@ https://www.freecodecamp.org/
 
 https://argentinaprograma.com/
 
-Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. Super recomendado para aprender JavaScript y Front End con React.
+Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. **Super recomendado** para aprender JavaScript y Front-End con React.
 
 ## Hacker Rank
 
