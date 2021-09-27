@@ -70,6 +70,8 @@ https://freecourses.github.io/
 
 1. DEVS ARGENTINOS: Grupo de devs Argentinos. https://nmobregon.github.io/devsargentinos/
 
+2. SYSARMY - NERDEARLA https://sysar.my/slack 
+
 2. BCNENG: Basado en Barcelona, uno de los mejores para hispanohablantes. https://slack.bcneng.net/ 
 
 3. MEETUP.JS: Meetup de JS en Buenos Aires https://slack.meetupjs.com.ar/
