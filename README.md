@@ -31,7 +31,7 @@ https://argentinaprograma.com/
 3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 
 
-# The Odin Project
+## The Odin Project
 
 Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
 
@@ -53,6 +53,12 @@ https://www.hackerrank.com/
 ## OTROS RECURSOS:
 
 1. How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year) https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
+
+# Free Courses
+
+Coleccion de recursos gratuitos!
+
+https://freecourses.github.io/
 
 
 # DATA SCIENCE
