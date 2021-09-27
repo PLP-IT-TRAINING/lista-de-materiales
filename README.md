@@ -72,6 +72,8 @@ https://freecourses.github.io/
 
 2. SYSARMY - NERDEARLA https://sysar.my/slack 
 
+    A) En el canal #primer-trabajo-en-it hay busquedas trainee y jr sin experiencia.
+
 2. BCNENG: Basado en Barcelona, uno de los mejores para hispanohablantes. https://slack.bcneng.net/ 
 
 3. MEETUP.JS: Meetup de JS en Buenos Aires https://slack.meetupjs.com.ar/
