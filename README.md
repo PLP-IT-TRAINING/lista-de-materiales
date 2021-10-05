@@ -164,7 +164,6 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                     + https://missing.csail.mit.edu/2020/course-shell/
                  * Introduction to Computer Science and Programming 2008
                     + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
-                 * Introductio 
                  * Mathematics for Computer Science 2010
                     + https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
                  * Performance Engineering of Software Systems 2018
@@ -182,8 +181,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                  * Cryptocurrency Engineering and Design 2018
                     + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
              UC Berkeley 
-                 * UC Berkeley Computer Science 162, 001 - Fall 2010
-                   Operating Systems and System Programming
+                 * UC Berkeley CS 162 Operating Systems and System Programming - Fall 2010 
                       + https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
                  * UC Berkeley CS 61A The Structure and Interpretation of Computer Programs - Spring 2010
                      + https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
