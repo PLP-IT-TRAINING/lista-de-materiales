@@ -303,7 +303,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
    * https://swissdevjobs.ch/ Switzerland 
 
-   * https://www.seek.com.au/ Australia 
+   * https://www.seek.com.au/ Australia - Nueva Zelanda
    
 # Como obtener residencia digital en Estonia
 
