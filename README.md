@@ -63,6 +63,14 @@ https://argentinaprograma.com/
 ## Full Stack Open - University of Helsinki (free)
 
 https://fullstackopen.com/en/
+
+## Teach Yoursel Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
+
+https://teachyourselfcs.com/
+
+## Download Free Books 
+
+https://book4you.org/?signAll=1&ts=1729
           
 ## The Odin Project
 
@@ -136,13 +144,20 @@ https://freecourses.github.io/
 
 ## JUNIOR
 
-1. Sin JR no hay SR: algunas con 6 meses: https://www.linkedin.com/company/sin-jr-no-hay-sr/posts/?feedView=all
+1. Sin JR no hay SR: algunas con 6 meses 
+    * https://www.linkedin.com/company/sin-jr-no-hay-sr/posts/?feedView=all
 
-2. PYTHON ARGENTINA: https://www.python.org.ar/trabajo/
+2. PYTHON ARGENTINA 
+    * https://www.python.org.ar/trabajo/
 
-3. LATAM REMOTE https://latamremote.com/ 
+3. LATAM REMOTE 
+    * https://latamremote.com/ 
 
-4. PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) https://www.facebook.com/groups/1315614958591398/
+4. PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
+    * https://www.facebook.com/groups/1315614958591398/
+    
+5. https://arc.dev/remote-jr-jobs
+
 
 ## En general:
 
@@ -158,3 +173,14 @@ https://freecourses.github.io/
 
 3. Hacker News Hiring Board: http://www.hnhiring.me/ 
 
+## Trabajo en StartUps
+
+https://startup.career/internship/
+
+https://www.crunchbase.com/
+
+https://startup.jobs/
+
+https://careers.greatercph.com/#?cludoquery=*&cludopage=12
+
+https://swissdevjobs.ch/
