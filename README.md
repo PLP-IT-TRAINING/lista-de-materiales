@@ -18,31 +18,45 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
     * Concepts - Introduction
         + https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
         + https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
-    * HTML - CSS
+    * HTML - CSS 
         + https://www.youtube.com/watch?v=j5Zsa_eOXeY
         + https://www.youtube.com/watch?v=j5Zsa_eOXeY
     * JavaScript 
         + https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V
     * C - C++
         + https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m
-    * Java
+    * Java 
         + https://www.youtube.com/watch?v=GoXwIVyNvX0&list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
+        + https://www.youtube.com/watch?v=7WiJGTPuVeU
+        + https://www.youtube.com/watch?v=7WiJGTPuVeU
     * PHP
         + https://www.youtube.com/watch?v=ImtZ5yENzgE&list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB
     * Python 
         + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
         + https://www.youtube.com/watch?v=jBzwzrDvZ18
+    * Solidity
+        + https://www.youtube.com/watch?v=ipwxYa-F1uY
+    * R
+        + https://www.youtube.com/watch?v=_V8eKsto3Ug
     * Node.js
         + https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk
+        + https://www.youtube.com/watch?v=Oe421EPjeBE
     * Angular 
         + https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs
     * Vue.js
         + https://www.youtube.com/watch?v=4deVCNJq3qc&list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv
-    * React.js
+    * React.js !-- 
         + https://www.youtube.com/watch?v=nTeuhbP7wdE
+        + https://www.youtube.com/watch?v=a_7Z7C_JCyo
+        + https://www.youtube.com/watch?v=4UZrsTqkcW4&t=7s
+        + https://www.youtube.com/watch?v=DLX62G4lc44&t=12341s
+    * Django
+        + https://www.youtube.com/watch?v=qPtScmB8CgA
+    * TypeScript
+        + https://www.youtube.com/watch?v=gp5H0Vw39yw
     * WordPress
         + https://www.youtube.com/watch?v=KibbYf9avko&list=PLWKjhJtqVAbnon7MZndnKeGEfQbXjwOqd
-    * React Naative
+    * React Native
         + https://www.youtube.com/watch?v=T6e1GnlW8-g&list=PLWKjhJtqVAblh4QvUtzEq4qgs_bnvBrw2
     * Data Science
         + https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
@@ -50,10 +64,21 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
         + https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
     * Ethical Hacking
         + https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu
+    * Database
+        + https://www.youtube.com/watch?v=4cWkVbC2bNE
+    * AWS
+        + https://www.youtube.com/watch?v=ulprqHHWlng AWS Basics
+        + https://www.youtube.com/watch?v=KX_AfyrhlgQ AWS SysOps Administrator Associate 2020
+        + https://www.youtube.com/watch?v=RrKRN9zRBWs AWS Certified Developer - Associate 2020
     * Git
         + https://www.youtube.com/watch?v=Uszj_k0DGsg 
+        + https://www.youtube.com/watch?v=lX9hsdsAeTk
     * DevOps
         + https://www.youtube.com/watch?v=j5Zsa_eOXeY
+    * Visual Studio Code
+        + https://www.youtube.com/watch?v=WPqXP_kLzpo
+    * OpenSource
+        + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
 
@@ -105,33 +130,33 @@ https://argentinaprograma.com/
                  
 ## Full Stack Open - University of Helsinki (free)
 
-    https://fullstackopen.com/en/
+    * https://fullstackopen.com/en/
 
 ## Teach Yoursel Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
 
-    https://teachyourselfcs.com/
+    * https://teachyourselfcs.com/
 
 ## Download Free Books 
 
-    https://book4you.org/?signAll=1&ts=1729
+    * https://book4you.org/?signAll=1&ts=1729
           
 ## The Odin Project
 
 Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
 
-    https://www.theodinproject.com/
+    * https://www.theodinproject.com/
 
 
 ## Hacker Rank
 
 Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
 
-    https://www.hackerrank.com/
+    * https://www.hackerrank.com/
 
 
 ## Apuntes
 
-    Los apuntes de Majo https://losapuntesdemajo.vercel.app/
+    * Los apuntes de Majo https://losapuntesdemajo.vercel.app/
 
 
 ## OTROS RECURSOS:
@@ -142,7 +167,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
 Coleccion de recursos gratuitos!
 
-    https://freecourses.github.io/
+    * https://freecourses.github.io/
 
 
 # DATA SCIENCE
