@@ -295,3 +295,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
    * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 
 
    * https://swissdevjobs.ch/
+   
+# Como obtener residencia digital en Estonia
+
+   * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
