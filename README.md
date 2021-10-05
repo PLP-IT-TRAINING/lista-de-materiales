@@ -154,7 +154,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 
     * https://fullstackopen.com/en/
 
-## Teach Yoursel Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
+## Teach Yourself Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
 
     * https://teachyourselfcs.com/
 
