@@ -35,7 +35,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
     * Python 
         + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
         + https://www.youtube.com/watch?v=jBzwzrDvZ18
-    * Solidity, Blockchain and SmartContracts(freecodecamp - chailink)
+    * Solidity, Blockchain and SmartContracts(freecodecamp - chainlink)
         + https://www.youtube.com/watch?v=ipwxYa-F1uY
         + https://www.youtube.com/watch?v=M576WGiDBdQ
     * R
