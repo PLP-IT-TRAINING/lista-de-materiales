@@ -30,7 +30,7 @@ https://argentinaprograma.com/
 
 3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 
-    Harvard/Stanford/MIT (free resources)
+## Harvard/Stanford/MIT (free resources)
     
         	Harvard
                  * CS50 Lectures 2020 https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
