@@ -104,7 +104,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 
  * https://argentinaprograma.com/
 
-**Super recomendado** para aprender JavaScript y Front-End con React. Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
+**Super recomendado** para aprender JavaScript y Front-End con React. Este **NO ES** el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
 
 
 ## Videos de Programacion Youtube (gratis)
