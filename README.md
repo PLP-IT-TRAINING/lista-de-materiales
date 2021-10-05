@@ -30,7 +30,33 @@ https://argentinaprograma.com/
 
 3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 
+    Harvard/Stanford/MIT (free resources)
+    
+        	Harvard
+                 * CS50 Lectures 2020 https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+                 * CS50's Web Programming with Python and JavaScript 2020 https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
+                 * CS50's Introduction to Artificial Intelligence with Python 2020 https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
+                 * Computational Thinking - CS50's Computer Science for Business Professionals 2017 https://www.youtube.com/watch?v=Q2f9h_-_Fv4&list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc
+             Stanford
+                 * CS106A - Programming Methodology https://see.stanford.edu/Course/CS106A
+                 * CS106B - Programming Abstractions https://see.stanford.edu/Course/CS106B/143
+                 * CS107 - Programming Paradigms https://see.stanford.edu/Course/CS107
+             MIT
+                 * Introductory Programming Courses (Python, Java, C, C++)
+                    + https://ocw.mit.edu/courses/intro-programming/#language
+                 * The Missing Semester of Your CS Education
+                    + https://www.youtube.com/watch?v=Z56Jmr9Z34Q&t=23s
+                 * Introduction to Computer Science and Programming 2008
+                    + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
+                 * Performance Engineering of Software Systems 2018
+                    + https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+              Linux
+                 * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
+                 
+## Full Stack Open - University of Helsinki (free)
 
+https://fullstackopen.com/en/
+          
 ## The Odin Project
 
 Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
