@@ -12,7 +12,50 @@ Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privad
 
 Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada curso te da un certificado. No te olvides de registrarte para ir guardando tus progresos!
 
-https://www.freecodecamp.org/
+    * Principal
+        + https://www.freecodecamp.org/
+        
+    * Concepts - Introduction
+        + https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
+        + https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
+    * HTML - CSS
+        + https://www.youtube.com/watch?v=j5Zsa_eOXeY
+        + https://www.youtube.com/watch?v=j5Zsa_eOXeY
+    * JavaScript 
+        + https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V
+    * C - C++
+        + https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m
+    * Java
+        + https://www.youtube.com/watch?v=GoXwIVyNvX0&list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG
+    * PHP
+        + https://www.youtube.com/watch?v=ImtZ5yENzgE&list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB
+    * Python 
+        + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
+        + https://www.youtube.com/watch?v=jBzwzrDvZ18
+    * Node.js
+        + https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk
+    * Angular 
+        + https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs
+    * Vue.js
+        + https://www.youtube.com/watch?v=4deVCNJq3qc&list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv
+    * React.js
+        + https://www.youtube.com/watch?v=nTeuhbP7wdE
+    * WordPress
+        + https://www.youtube.com/watch?v=KibbYf9avko&list=PLWKjhJtqVAbnon7MZndnKeGEfQbXjwOqd
+    * React Naative
+        + https://www.youtube.com/watch?v=T6e1GnlW8-g&list=PLWKjhJtqVAblh4QvUtzEq4qgs_bnvBrw2
+    * Data Science
+        + https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
+    * Machine Learning
+        + https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
+    * Ethical Hacking
+        + https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu
+    * Git
+        + https://www.youtube.com/watch?v=Uszj_k0DGsg 
+    * DevOps
+        + https://www.youtube.com/watch?v=j5Zsa_eOXeY
+    * Excel 
+        + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
 
 
 ## /r/Argentina PROGRAMA 
@@ -24,11 +67,11 @@ https://argentinaprograma.com/
 
 ## Videos de Programacion Youtube (gratis)
 
-1. Videos con un curso de RAPTOR con logica de programacion, recomendado: https://www.youtube.com/playlist?list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7 
+    1. Videos con un curso de RAPTOR con logica de programacion, recomendado: https://www.youtube.com/playlist?list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7 
 
-2. Videos con un curso de PYTHON DESDE CERO, recomendado: https://www.youtube.com/watch?v=mENHDQ8SLsI&list=PLyvsggKtwbLW1j0d5yaCkRF9Axpdlhsxz
+    2. Videos con un curso de PYTHON DESDE CERO, recomendado: https://www.youtube.com/watch?v=mENHDQ8SLsI&list=PLyvsggKtwbLW1j0d5yaCkRF9Axpdlhsxz
 
-3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
+    3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 
 ## Harvard/Stanford/MIT (free resources)
     
@@ -62,44 +105,44 @@ https://argentinaprograma.com/
                  
 ## Full Stack Open - University of Helsinki (free)
 
-https://fullstackopen.com/en/
+    https://fullstackopen.com/en/
 
 ## Teach Yoursel Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
 
-https://teachyourselfcs.com/
+    https://teachyourselfcs.com/
 
 ## Download Free Books 
 
-https://book4you.org/?signAll=1&ts=1729
+    https://book4you.org/?signAll=1&ts=1729
           
 ## The Odin Project
 
 Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
 
-https://www.theodinproject.com/
+    https://www.theodinproject.com/
 
 
 ## Hacker Rank
 
 Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
 
-https://www.hackerrank.com/
+    https://www.hackerrank.com/
 
 
 ## Apuntes
 
-1. Los apuntes de Majo https://losapuntesdemajo.vercel.app/
+    Los apuntes de Majo https://losapuntesdemajo.vercel.app/
 
 
 ## OTROS RECURSOS:
 
-1. How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year) https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
+1. How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                 https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
 
 # Free Courses
 
 Coleccion de recursos gratuitos!
 
-https://freecourses.github.io/
+    https://freecourses.github.io/
 
 
 # DATA SCIENCE
@@ -156,8 +199,6 @@ https://freecourses.github.io/
 4. PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
     * https://www.facebook.com/groups/1315614958591398/
     
-5. https://arc.dev/remote-jr-jobs
-
 
 ## En general:
 
@@ -173,6 +214,8 @@ https://freecourses.github.io/
 
 3. Hacker News Hiring Board: http://www.hnhiring.me/ 
 
+4. Otro: https://arc.dev/remote-jr-jobs
+
 ## Trabajo en StartUps
 
 https://startup.career/internship/
@@ -181,6 +224,8 @@ https://www.crunchbase.com/
 
 https://startup.jobs/
 
-https://careers.greatercph.com/#?cludoquery=*&cludopage=12
+## Otros
+
+https://careers.greatercph.com/#?cludoquery=*&cludopage=12 
 
 https://swissdevjobs.ch/
