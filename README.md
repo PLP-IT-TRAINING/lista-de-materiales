@@ -35,8 +35,9 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
     * Python 
         + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
         + https://www.youtube.com/watch?v=jBzwzrDvZ18
-    * Solidity
+    * Solidity, Blockchain and SmartContracts(freecodecamp - chailink)
         + https://www.youtube.com/watch?v=ipwxYa-F1uY
+        + https://www.youtube.com/watch?v=M576WGiDBdQ
     * R
         + https://www.youtube.com/watch?v=_V8eKsto3Ug
     * Node.js
@@ -139,6 +140,8 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                     + https://www.youtube.com/watch?v=sPpoqwoY6pI&list=PLhQjrBD2T383KQ0yBY2yQwpYv-OiR-4f1
                  * CS50 Shorts
                     + https://www.youtube.com/watch?v=uVJ0Il5WvbE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW
+                 * Data Analysis CS109
+                    + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
            Stanford
                  * CS105 - Introduction to Computers 2021
                      + https://www.youtube.com/watch?v=Sw6S48iZ6DM&list=PLRdiSwvnIWNQQ9IPTJvkhE63kTxkm0eQW
@@ -183,6 +186,8 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                     + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
                  * Cryptocurrency Engineering and Design 2018
                     + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
+                 * Introduction for 15.S12 Blockchain and Money - Fall 2018
+                    + https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
              UC Berkeley 
                  * UC Berkeley CS 162 Operating Systems and System Programming - Fall 2010 
                       + https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
@@ -198,6 +203,13 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                      + https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF
                  * UC Berkeley CS 182 Deep Learning Spring 2021
                      + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
+             Princeton
+                 * Bitcoin And Cryptocurrency Lectures
+                     + https://www.youtube.com/watch?v=fOMVZXLjKYo&list=PLGviaF-Rdsba9pAuUgugeODELmeZbnWoq
+                 * Computer Architecture 
+                     + Part 1: https://www.youtube.com/watch?v=9nuAjYRbITQ
+                     + Part 2: https://www.youtube.com/watch?v=foCkCSZXOt8
+                     + Part 3: https://www.youtube.com/watch?v=BHMETwOXvWw
              Linux
                  * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
                  
