@@ -295,6 +295,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
    * https://angel.co/jobs
 
+  * https://start-up.house/en/careers/junior_frontend_developer
+
 ## Otros
 
    * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
