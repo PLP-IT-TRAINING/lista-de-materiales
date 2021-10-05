@@ -130,13 +130,32 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                     + https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
                  * Computational Thinking - CS50's Computer Science for Business Professionals 2017 
                     + https://www.youtube.com/watch?v=Q2f9h_-_Fv4&list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc
+                 * CS50's Understanding Technology 2017
+                    + https://www.youtube.com/watch?v=6mbFO0ZLMW8&list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p
+                 * C$50 Finance 
+                    + https://www.youtube.com/watch?v=sPpoqwoY6pI&list=PLhQjrBD2T383KQ0yBY2yQwpYv-OiR-4f1
+                 * CS50 Shorts
+                    + https://www.youtube.com/watch?v=uVJ0Il5WvbE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW
            Stanford
+                 * CS105 - Introduction to Computers 2021
+                     + https://www.youtube.com/watch?v=Sw6S48iZ6DM&list=PLRdiSwvnIWNQQ9IPTJvkhE63kTxkm0eQW
                  * CS106A - Programming Methodology 
                      + https://see.stanford.edu/Course/CS106A
                  * CS106B - Programming Abstractions 
                       + https://see.stanford.edu/Course/CS106B/143
                  * CS107 - Programming Paradigms 
                       + https://see.stanford.edu/Course/CS107
+                 * EE104 - Introduction to Machine Learning 2020
+                      + https://www.youtube.com/watch?v=jbNVUCRMUP0&list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK
+                 * CS229 - Machine Learning 2018 
+                      + https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+                 * CS221 - Artificial Intelligence 2019
+                      + https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
+                 * CS230 - Deep Learning 2018
+                      + https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+                 * Computer Science and Cybersecurity
+                      + https://www.youtube.com/watch?v=J2txSFdQWIY&list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT
+                      + https://www.youtube.com/watch?v=jyhIR3f46X0
             MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
@@ -145,8 +164,39 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                     + https://missing.csail.mit.edu/2020/course-shell/
                  * Introduction to Computer Science and Programming 2008
                     + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
+                 * Introductio 
+                 * Mathematics for Computer Science 2010
+                    + https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
                  * Performance Engineering of Software Systems 2018
                     + https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+                 * Computer Systems Security 2014
+                    + https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
+                 * Algorithms and Computation 2020
+                    + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+                 * Introduction to Computational Thinking and Data Science 2016
+                    + https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
+                 * Design and Analysis of Algorithms 
+                    + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+                 * Artificial Intelligence 2010
+                    + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+                 * Cryptocurrency Engineering and Design 2018
+                    + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
+             UC Berkeley 
+                 * UC Berkeley Computer Science 162, 001 - Fall 2010
+                   Operating Systems and System Programming
+                      + https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
+                 * UC Berkeley CS 61A The Structure and Interpretation of Computer Programs - Spring 2010
+                     + https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
+                 * UC Berkeley CS 162 Operating Systems - Fall 2013
+                     + https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM
+                 * UC Berkeley CS 61C Great Ideas in Computer Architecture
+                     + https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk
+                 * UC Berkeley CS 61A Screencasts - Summer 2019
+                     + https://www.youtube.com/watch?v=vYynOGcDW-8&list=PLx38hZJ5RLZc2lUzubnMKpnniy8cHjD3T
+                 * UC Berkeley CS 188 Artificial Intelligence 2018
+                     + https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF
+                 * UC Berkeley CS 182 Deep Learning Spring 2021
+                     + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
              Linux
                  * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
                  
