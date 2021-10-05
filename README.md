@@ -81,22 +81,42 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
         + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
+ 
+## LeetCode
+   * https://leetcode.com/
 
+## CoderByte
+   * https://www.coderbyte.com/
+   
+## CodingBat
+   * https://codingbat.com/python
+
+## Frontend Practice
+   * https://www.frontendpractice.com/
+ 
+## Frontend Mentor
+   * https://www.frontendmentor.io/
+
+## CodeWars
+   * https://www.codewars.com/
 
 ## /r/Argentina PROGRAMA 
 
-https://argentinaprograma.com/
+ * https://argentinaprograma.com/
 
 **Super recomendado** para aprender JavaScript y Front-End con React. Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
 
 
 ## Videos de Programacion Youtube (gratis)
 
-    1. Videos con un curso de RAPTOR con logica de programacion, recomendado: https://www.youtube.com/playlist?list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7 
+    * Videos con un curso de RAPTOR con logica de programacion, recomendado 
+            + https://www.youtube.com/playlist?list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7 
 
-    2. Videos con un curso de PYTHON DESDE CERO, recomendado: https://www.youtube.com/watch?v=mENHDQ8SLsI&list=PLyvsggKtwbLW1j0d5yaCkRF9Axpdlhsxz
+    * Videos con un curso de PYTHON DESDE CERO, recomendado 
+            + https://www.youtube.com/watch?v=mENHDQ8SLsI&list=PLyvsggKtwbLW1j0d5yaCkRF9Axpdlhsxz
 
-    3. Videos con un curso de JAVA DESDE CERO, recomendado: https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
+    * Videos con un curso de JAVA DESDE CERO, recomendado 
+            + https://www.youtube.com/watch?v=L1oMLsiMusQ&list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 
 ## Harvard/Stanford/MIT (free resources)
     
@@ -109,23 +129,24 @@ https://argentinaprograma.com/
                     + https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
                  * Computational Thinking - CS50's Computer Science for Business Professionals 2017 
                     + https://www.youtube.com/watch?v=Q2f9h_-_Fv4&list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc
-             Stanford
+           Stanford
                  * CS106A - Programming Methodology 
                      + https://see.stanford.edu/Course/CS106A
                  * CS106B - Programming Abstractions 
                       + https://see.stanford.edu/Course/CS106B/143
                  * CS107 - Programming Paradigms 
                       + https://see.stanford.edu/Course/CS107
-             MIT
+            MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
                  * The Missing Semester of Your CS Education
                     + https://www.youtube.com/watch?v=Z56Jmr9Z34Q&t=23s
+                    + https://missing.csail.mit.edu/2020/course-shell/
                  * Introduction to Computer Science and Programming 2008
                     + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
                  * Performance Engineering of Software Systems 2018
                     + https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
-              Linux
+             Linux
                  * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
                  
 ## Full Stack Open - University of Helsinki (free)
@@ -147,7 +168,7 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
     * https://www.theodinproject.com/
 
 
-## Hacker Rank
+## HackerRank
 
 Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
 
@@ -156,24 +177,25 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
 ## Apuntes
 
-    * Los apuntes de Majo https://losapuntesdemajo.vercel.app/
+    * Los apuntes de Majo 
+         + https://losapuntesdemajo.vercel.app/
 
 
 ## OTROS RECURSOS:
 
- * How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                 https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
+ * How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                                                                                        https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
 
 # Free Courses
 
-Coleccion de recursos gratuitos!
+   * Coleccion de recursos gratuitos!
 
-    * https://freecourses.github.io/
+      + https://freecourses.github.io/
 
 
 # DATA SCIENCE
 
-   * DataCamp, hacen certificaciones https://www.datacamp.com/ 
-
+   * DataCamp, hacen certificaciones 
+      + https://www.datacamp.com/ 
 
 # Lista de Slacks y Discords para buscar ayuda, hacer networking, y buscar trabajo
 
@@ -248,13 +270,17 @@ Coleccion de recursos gratuitos!
 
 ## Con opcion de relocalizacion y/o Visa
 
-   * Trabajos con relocation: https://relocate.me/
+   * Trabajos con relocation 
+         + https://relocate.me/
 
-   * Trabajos en la bolsa de Stack Overflow, con visa: https://stackoverflow.com/jobs?v=true 
+   * Trabajos en la bolsa de Stack Overflow, con visa 
+         + https://stackoverflow.com/jobs?v=true 
 
-   * Hacker News Hiring Board: http://www.hnhiring.me/ 
+   * Hacker News Hiring Board
+         + http://www.hnhiring.me/ 
 
-   * Otro: https://arc.dev/remote-jr-jobs
+   * Otro
+        + https://arc.dev/remote-jr-jobs
 
 ## Trabajo en StartUps
 
