@@ -6,7 +6,8 @@ Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privad
 
 ## Hoja de Ruta: Empeza aca!
 
-1. Esta es la ruta de viaje para hacer front-end, back-end, y/o devops: https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/spanish
+   * Esta es la ruta de viaje para hacer front-end, back-end, y/o devops 
+        + https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/spanish
 
 ## FreeCodeCamp
 
