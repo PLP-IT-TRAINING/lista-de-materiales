@@ -243,6 +243,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
    * MAS SLACKS DEL MUNDO EN: 
           + https://github.com/ladyleet/tech-community-slacks
 
+  * Asadito js
+          + https://github.com/asaditojs/react-for-beginners
 
 # Busqueda de trabajos 
 
@@ -291,11 +293,15 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
    * https://startup.jobs/
 
+   * https://angel.co/jobs
+
 ## Otros
 
-   * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 
+   * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
 
-   * https://swissdevjobs.ch/
+   * https://swissdevjobs.ch/ Switzerland 
+
+   * https://www.seek.com.au/ Australia 
    
 # Como obtener residencia digital en Estonia
 
