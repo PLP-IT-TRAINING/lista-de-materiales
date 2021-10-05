@@ -161,7 +161,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
 ## OTROS RECURSOS:
 
-1. How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                 https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
+ * How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                 https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
 
 # Free Courses
 
@@ -172,85 +172,100 @@ Coleccion de recursos gratuitos!
 
 # DATA SCIENCE
 
-1. DataCamp, hacen certificaciones https://www.datacamp.com/ 
+   * DataCamp, hacen certificaciones https://www.datacamp.com/ 
 
 
 # Lista de Slacks y Discords para buscar ayuda, hacer networking, y buscar trabajo
 
-1. DEVS ARGENTINOS: Grupo de devs Argentinos. https://nmobregon.github.io/devsargentinos/
+   * DEVS ARGENTINOS: Grupo de devs Argentinos. 
+         + https://nmobregon.github.io/devsargentinos/
 
-2. SYSARMY - NERDEARLA https://sysar.my/slack 
+   * SYSARMY - NERDEARLA 
+         + https://sysar.my/slack 
 
-    A) En el canal #primer-trabajo-en-it hay busquedas trainee y jr sin experiencia.
+         + En el canal #primer-trabajo-en-it hay busquedas trainee y jr sin experiencia.
 
-2. BCNENG: Basado en Barcelona, uno de los mejores para hispanohablantes. https://slack.bcneng.net/ 
+   * BCNENG: Basado en Barcelona, uno de los mejores para hispanohablantes. 
+         + https://slack.bcneng.net/ 
 
-3. MEETUP.JS: Meetup de JS en Buenos Aires https://slack.meetupjs.com.ar/
+   * MEETUP.JS: Meetup de JS en Buenos Aires 
+         + https://slack.meetupjs.com.ar/
 
-4. BEERJS: International JavaScript Community https://beerjs-slack-invite.herokuapp.com/
+   * BEERJS: International JavaScript Community 
+         + https://beerjs-slack-invite.herokuapp.com/
 
-5. DEVOPSCHAT.CO: Para DevOps https://devopschat.co/register
+   * DEVOPSCHAT.CO: Para DevOps 
+         + https://devopschat.co/register
 
-6. C++ https://cpplang-inviter.cppalliance.org/
+   * C++ 
+         + https://cpplang-inviter.cppalliance.org/
 
-7. REACTIFLUX: community of 147,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers. https://www.reactiflux.com/
+   * REACTIFLUX: community of 147,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers.                                  + https://www.reactiflux.com/
 
-8. NYC TECH SLACK: Slack account for the New York-based tech community. https://www.nyctechslack.com/
+   * NYC TECH SLACK: Slack account for the New York-based tech community. 
+         + https://www.nyctechslack.com/
 
-9. PORTLAND REACTJS SLACK https://portlandreactjs.herokuapp.com/
+   * PORTLAND REACTJS SLACK 
+         + https://portlandreactjs.herokuapp.com/
 
-10. REACTJSNEWS https://slack.reactjsnews.com/
+   * REACTJSNEWS 
+         + https://slack.reactjsnews.com/
 
-11. QAMERCS: juntar a todos los qa's de argentina o de capital o de donde sea para repartir conocimientos y laburo. https://www.facebook.com/groups/QAMercs/about
+   * QAMERCS: juntar a todos los qa's de argentina o de capital o de donde sea para repartir conocimientos y laburo. 
+         + https://www.facebook.com/groups/QAMercs/about
 
-12. /r/Argentina PROGRAMA https://argentinaprograma.com/
+   * /r/Argentina PROGRAMA 
+          + https://argentinaprograma.com/
 
-99. MAS SLACKS DEL MUNDO EN: https://github.com/ladyleet/tech-community-slacks
+   * MAS SLACKS DEL MUNDO EN: 
+          + https://github.com/ladyleet/tech-community-slacks
 
 
 # Busqueda de trabajos 
 
 ## JUNIOR
 
-1. Sin JR no hay SR: algunas con 6 meses 
-    * https://www.linkedin.com/company/sin-jr-no-hay-sr/posts/?feedView=all
+   * Sin JR no hay SR: algunas con 6 meses 
+      + https://www.linkedin.com/company/sin-jr-no-hay-sr/posts/?feedView=all
 
-2. PYTHON ARGENTINA 
-    * https://www.python.org.ar/trabajo/
+   * PYTHON ARGENTINA 
+      + https://www.python.org.ar/trabajo/
 
-3. LATAM REMOTE 
-    * https://latamremote.com/ 
+   * LATAM REMOTE 
+      + https://latamremote.com/ 
 
-4. PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
-    * https://www.facebook.com/groups/1315614958591398/
+   * PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
+      + https://www.facebook.com/groups/1315614958591398/
     
 
 ## En general:
 
-1. DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO https://t.me/deployarEmpleos
+   * DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO 
+         + https://t.me/deployarEmpleos
 
-2. Otro grupo de Telegram, de Especialistas IT: https://t.me/devsars
+   * Otro grupo de Telegram, de Especialistas IT: 
+         + https://t.me/devsars
 
 ## Con opcion de relocalizacion y/o Visa
 
-1. Trabajos con relocation: https://relocate.me/
+   * Trabajos con relocation: https://relocate.me/
 
-2. Trabajos en la bolsa de Stack Overflow, con visa: https://stackoverflow.com/jobs?v=true 
+   * Trabajos en la bolsa de Stack Overflow, con visa: https://stackoverflow.com/jobs?v=true 
 
-3. Hacker News Hiring Board: http://www.hnhiring.me/ 
+   * Hacker News Hiring Board: http://www.hnhiring.me/ 
 
-4. Otro: https://arc.dev/remote-jr-jobs
+   * Otro: https://arc.dev/remote-jr-jobs
 
 ## Trabajo en StartUps
 
-https://startup.career/internship/
+   * https://startup.career/internship/
 
-https://www.crunchbase.com/
+   * https://www.crunchbase.com/
 
-https://startup.jobs/
+   * https://startup.jobs/
 
 ## Otros
 
-https://careers.greatercph.com/#?cludoquery=*&cludopage=12 
+   * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 
 
-https://swissdevjobs.ch/
+   * https://swissdevjobs.ch/
