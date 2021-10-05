@@ -33,14 +33,21 @@ https://argentinaprograma.com/
 ## Harvard/Stanford/MIT (free resources)
     
         	Harvard
-                 * CS50 Lectures 2020 https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
-                 * CS50's Web Programming with Python and JavaScript 2020 https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
-                 * CS50's Introduction to Artificial Intelligence with Python 2020 https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
-                 * Computational Thinking - CS50's Computer Science for Business Professionals 2017 https://www.youtube.com/watch?v=Q2f9h_-_Fv4&list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc
+                 * CS50 Lectures 2020 
+                    + https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+                 * CS50's Web Programming with Python and JavaScript 2020 
+                    + https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
+                 * CS50's Introduction to Artificial Intelligence with Python 2020 
+                    + https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
+                 * Computational Thinking - CS50's Computer Science for Business Professionals 2017 
+                    + https://www.youtube.com/watch?v=Q2f9h_-_Fv4&list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc
              Stanford
-                 * CS106A - Programming Methodology https://see.stanford.edu/Course/CS106A
-                 * CS106B - Programming Abstractions https://see.stanford.edu/Course/CS106B/143
-                 * CS107 - Programming Paradigms https://see.stanford.edu/Course/CS107
+                 * CS106A - Programming Methodology 
+                     + https://see.stanford.edu/Course/CS106A
+                 * CS106B - Programming Abstractions 
+                      + https://see.stanford.edu/Course/CS106B/143
+                 * CS107 - Programming Paradigms 
+                      + https://see.stanford.edu/Course/CS107
              MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
