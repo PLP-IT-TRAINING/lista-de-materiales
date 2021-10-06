@@ -38,6 +38,16 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
     * Solidity, Blockchain and SmartContracts(freecodecamp - chainlink)
         + https://www.youtube.com/watch?v=ipwxYa-F1uY
         + https://www.youtube.com/watch?v=M576WGiDBdQ
+          * Bootcamp Chainlink
+            + Día 1: https://www.youtube.com/watch?v=l6qnQ7BNhyk
+            + Día 2 Brownie (Python): https://www.youtube.com/watch?v=Pi8eGy7WjqQ
+            + Día 2 Hardhat (JavaScript): https://www.youtube.com/watch?v=Mvojp6XG55g&t=0s
+            + Día 3 Brownie (Python): https://www.youtube.com/watch?v=GlP5I78Wtw0
+            + Día 3 Hardhat (JavaScript): https://www.youtube.com/watch?v=Vw4f71n0taE
+              * Ejercicios 
+                + Día 1: https://docs.google.com/document/d/1CtROewhnKTlsoBIv6jODFt2nyJL_ZFuOGyORyIsVy8Q/edit
+                + Día 2 y 3 sesión Hardhat: https://docs.google.com/document/d/1eDZ9esSmozBif5ehRncQd8dqJTHwG9ZKjvVUMN1dFOA/edit
+                + Dia 2 y 3 sesión Brownie: https://docs.google.com/document/d/1kRIkmKWAd-eHVZ6Z-smXVHXr3kUc48SBCCFKo-Jg83M/edit
     * R
         + https://www.youtube.com/watch?v=_V8eKsto3Ug
     * Node.js
@@ -68,6 +78,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
         + https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu
     * Database
         + https://www.youtube.com/watch?v=4cWkVbC2bNE
+        + https://www.youtube.com/watch?v=4cWkVbC2bNE&t=1s (Cornell University SQL, NoSQL, Large-Scala Data Analysis)
     * AWS
         + https://www.youtube.com/watch?v=ulprqHHWlng AWS Basics
         + https://www.youtube.com/watch?v=KX_AfyrhlgQ AWS SysOps Administrator Associate 2020
@@ -188,6 +199,10 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                     + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
                  * Introduction for 15.S12 Blockchain and Money - Fall 2018
                     + https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+                 * MIT Deep Learning and Artificial Intelligence Lectures Lex Fridman
+                    + https://deeplearning.mit.edu/
+                    + https://github.com/lexfridman/mit-deep-learning
+                    + https://www.youtube.com/watch?v=s3MuSOl1Rog
              UC Berkeley 
                  * UC Berkeley CS 162 Operating Systems and System Programming - Fall 2010 
                       + https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
@@ -210,6 +225,17 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
                      + Part 1: https://www.youtube.com/watch?v=9nuAjYRbITQ
                      + Part 2: https://www.youtube.com/watch?v=foCkCSZXOt8
                      + Part 3: https://www.youtube.com/watch?v=BHMETwOXvWw
+              Cornell
+                 * CS 5787: Applied Machine Learning
+                     + https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+                     + https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
+                 * CS4780 Machine Learning for Decision Making
+                     + https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+               Caltech
+                 * Foundations of Machine Learning 
+                     + https://www.youtube.com/watch?v=qiLKPPyvVKw&list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp
+                 * Machine Learning Course - CS 156
+                     + https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A
              Linux
                  * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
                  
