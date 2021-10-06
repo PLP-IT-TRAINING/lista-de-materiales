@@ -96,7 +96,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
         
 ## You Don't Know JS
-  * Books 
+  * Book series
  
 ## LeetCode
    * https://leetcode.com/
