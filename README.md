@@ -87,6 +87,8 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
         + https://www.youtube.com/watch?v=Uszj_k0DGsg 
         + https://www.youtube.com/watch?v=lX9hsdsAeTk
         + https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF
+    * API's
+        + https://www.youtube.com/watch?v=GZvSYJDk-us&t=11s
     * DevOps
         + https://www.youtube.com/watch?v=j5Zsa_eOXeY
     * Visual Studio Code
