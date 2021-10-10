@@ -6,7 +6,7 @@ Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privad
 
 ## Hoja de Ruta: Empeza aca!
 
-   * Esta es la ruta de viaje para hacer front-end, back-end, y/o devops 
+    * Esta es la ruta de viaje para hacer front-end, back-end, y/o devops 
         + https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/spanish
 
 ## FreeCodeCamp
@@ -96,35 +96,35 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
 ## AWS eLearning
-  * https://www.aws.training/
+    * https://www.aws.training/
         
 ## You Don't Know JS
-  * Book series
+    * Book series
  
 ## LeetCode
-   * https://leetcode.com/
+    * https://leetcode.com/
 
 ## CoderByte
-   * https://www.coderbyte.com/
+     * https://www.coderbyte.com/
    
 ## CodingBat
-   * https://codingbat.com/python
+     * https://codingbat.com/python
 
 ## Frontend Practice
-   * https://www.frontendpractice.com/
+     * https://www.frontendpractice.com/
  
 ## Frontend Mentor
-   * https://www.frontendmentor.io/
+    * https://www.frontendmentor.io/
 
 ## CodeWars
-   * https://www.codewars.com/
+     * https://www.codewars.com/
 
 ## Learn to code with me
-   * https://learntocodewith.me/posts/code-for-free/
+     * https://learntocodewith.me/posts/code-for-free/
 
 ## /r/Argentina PROGRAMA 
 
- * https://argentinaprograma.com/
+     * https://argentinaprograma.com/
 
 **Super recomendado** para aprender JavaScript y Front-End con React. Este **NO ES** el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
 
@@ -290,94 +290,94 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
 # DATA SCIENCE
 
-   * DataCamp, hacen certificaciones 
-      + https://www.datacamp.com/ 
+     * DataCamp, hacen certificaciones 
+       + https://www.datacamp.com/ 
 
 # Lista de Slacks y Discords para buscar ayuda, hacer networking, y buscar trabajo
 
-   * DEVS ARGENTINOS: Grupo de devs Argentinos. 
+    * DEVS ARGENTINOS: Grupo de devs Argentinos. 
          + https://nmobregon.github.io/devsargentinos/
 
-   * SYSARMY - NERDEARLA 
+     * SYSARMY - NERDEARLA 
          + https://sysar.my/slack 
 
          + En el canal #primer-trabajo-en-it hay busquedas trainee y jr sin experiencia.
 
-   * BCNENG: Basado en Barcelona, uno de los mejores para hispanohablantes. 
-         + https://slack.bcneng.net/ 
+     * BCNENG: Basado en Barcelona, uno de los mejores para hispanohablantes. 
+           + https://slack.bcneng.net/ 
 
-   * MEETUP.JS: Meetup de JS en Buenos Aires 
+     * MEETUP.JS: Meetup de JS en Buenos Aires 
          + https://slack.meetupjs.com.ar/
 
-   * BEERJS: International JavaScript Community 
+     * BEERJS: International JavaScript Community 
          + https://beerjs-slack-invite.herokuapp.com/
 
-   * DEVOPSCHAT.CO: Para DevOps 
+     * DEVOPSCHAT.CO: Para DevOps 
          + https://devopschat.co/register
 
-   * C++ 
+     * C++ 
          + https://cpplang-inviter.cppalliance.org/
 
-   * REACTIFLUX: community of 147,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers.                                  + https://www.reactiflux.com/
+     * REACTIFLUX: community of 147,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers.                                  + https://www.reactiflux.com/
 
-   * NYC TECH SLACK: Slack account for the New York-based tech community. 
+    * NYC TECH SLACK: Slack account for the New York-based tech community. 
          + https://www.nyctechslack.com/
 
-   * PORTLAND REACTJS SLACK 
+    * PORTLAND REACTJS SLACK 
          + https://portlandreactjs.herokuapp.com/
 
-   * REACTJSNEWS 
+    * REACTJSNEWS 
          + https://slack.reactjsnews.com/
 
-   * QAMERCS: juntar a todos los qa's de argentina o de capital o de donde sea para repartir conocimientos y laburo. 
+    * QAMERCS: juntar a todos los qa's de argentina o de capital o de donde sea para repartir conocimientos y laburo. 
          + https://www.facebook.com/groups/QAMercs/about
 
-   * /r/Argentina PROGRAMA 
+    * /r/Argentina PROGRAMA 
           + https://argentinaprograma.com/
 
-   * MAS SLACKS DEL MUNDO EN: 
+     * MAS SLACKS DEL MUNDO EN: 
           + https://github.com/ladyleet/tech-community-slacks
 
-  * Asadito js
+    * Asadito js
           + https://github.com/asaditojs/react-for-beginners
 
 # Busqueda de trabajos 
 
 ## JUNIOR
 
-   * Sin JR no hay SR: algunas con 6 meses 
-      + https://www.linkedin.com/company/sin-jr-no-hay-sr/posts/?feedView=all
+     * Sin JR no hay SR: algunas con 6 meses 
+        + https://www.linkedin.com/company/sin-jr-no-hay-sr/posts/?feedView=all
 
-   * PYTHON ARGENTINA 
-      + https://www.python.org.ar/trabajo/
+    * PYTHON ARGENTINA 
+       + https://www.python.org.ar/trabajo/
 
-   * LATAM REMOTE 
-      + https://latamremote.com/ 
+     * LATAM REMOTE 
+       + https://latamremote.com/ 
 
-   * PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
-      + https://www.facebook.com/groups/1315614958591398/
+     * PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
+        + https://www.facebook.com/groups/1315614958591398/
     
 
 ## En general:
 
-   * DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO 
+    * DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO 
          + https://t.me/deployarEmpleos
 
-   * Otro grupo de Telegram, de Especialistas IT: 
+     * Otro grupo de Telegram, de Especialistas IT: 
          + https://t.me/devsars
 
 ## Con opcion de relocalizacion y/o Visa
 
-   * Trabajos con relocation 
+    * Trabajos con relocation 
          + https://relocate.me/
 
-   * Trabajos en la bolsa de Stack Overflow, con visa 
+     * Trabajos en la bolsa de Stack Overflow, con visa 
          + https://stackoverflow.com/jobs?v=true 
 
-   * Hacker News Hiring Board
+    * Hacker News Hiring Board
          + http://www.hnhiring.me/ 
 
-   * Otro
+     * Otro
         + https://arc.dev/remote-jr-jobs
 
 ## Trabajo en StartUps
