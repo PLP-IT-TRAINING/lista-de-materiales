@@ -124,7 +124,7 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 ## Learn to code with me
      * https://learntocodewith.me/posts/code-for-free/
      
-## Codecamdemy
+## Codecademy
      * https://www.codecademy.com/
 
 ## SoloLearn
