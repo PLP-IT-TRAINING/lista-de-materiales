@@ -123,9 +123,32 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 
 ## Learn to code with me
      * https://learntocodewith.me/posts/code-for-free/
+     
+## Codecamdemy
+     * https://www.codecademy.com/
 
+## SoloLearn
+      * https://www.sololearn.com/home
+      
+## Bento.io
+      * https://bento.io/
+      
+## Cybrary (ciberseguridad)
+      * https://www.cybrary.it/
+      
+## Hackr.io
+      * https://hackr.io/
+      
+## Skillshare
+      * https://www.skillshare.com/
+    
+## HackerRank
+
+Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
+
+    * https://www.hackerrank.com/
+      
 ## /r/Argentina PROGRAMA 
-
      * https://argentinaprograma.com/
 
 **Super recomendado** para aprender JavaScript y Front-End con React. Este **NO ES** el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
@@ -251,6 +274,12 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 
     * https://fullstackopen.com/en/
 
+## The Odin Project
+
+Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
+
+    * https://www.theodinproject.com/
+    
 ## Teach Yourself Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
 
     * https://teachyourselfcs.com/
@@ -258,20 +287,6 @@ Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada cu
 ## Download Free Books 
 
     * https://book4you.org/?signAll=1&ts=1729
-          
-## The Odin Project
-
-Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
-
-    * https://www.theodinproject.com/
-
-
-## HackerRank
-
-Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
-
-    * https://www.hackerrank.com/
-
 
 ## Apuntes
 
@@ -286,7 +301,6 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 # Free Courses
 
    * Coleccion de recursos gratuitos!
-
       + https://freecourses.github.io/
 
 
