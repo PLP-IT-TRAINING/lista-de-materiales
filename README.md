@@ -406,7 +406,17 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
 
    * https://angel.co/jobs
 
-  * https://start-up.house/en/careers/junior_frontend_developer
+   * https://start-up.house/en/careers/junior_frontend_developer
+
+   * https://www.startup.ch/startup-directory Switzerland
+
+   * https://www.sictic.ch/startups/
+
+   * https://www.top100startups.swiss/index.cfm?page=136340&profilesEntry=1
+
+   * https://www.swissacceleration.com/
+
+   * https://www.startup.ch/index.cfm?page=129367&profil_id=8598
 
 ## Otros
 
