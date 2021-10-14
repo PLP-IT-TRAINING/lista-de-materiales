@@ -9,7 +9,7 @@ Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privad
     * Esta es la ruta de viaje para hacer front-end, back-end, y/o devops 
         + https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/spanish
 
-## FreeCodeCamp
+## freeCodeCamp
 
 Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada curso te da un certificado. No te olvides de registrarte para ir guardando tus progresos!
 
