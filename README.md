@@ -421,6 +421,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
 
    * https://medicalstartups.org/top/mental/ 
 
+   * https://www.eu-startups.com/2019/06/10-european-startups-revolutionizing-mental-health/
+
 ## Otros
 
    * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
