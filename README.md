@@ -430,6 +430,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
    * https://swissdevjobs.ch/ Switzerland 
 
    * https://www.seek.com.au/ Australia - Nueva Zelanda
+
+   * https://www.careerjet.ch/junior-javascript-developer-jobs.html
    
 # Como obtener residencia digital en Estonia
 
