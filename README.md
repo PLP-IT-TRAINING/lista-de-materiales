@@ -372,6 +372,10 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
 
      * PRIMER EMPLEO IT TRAINEE JR (Grupo Facebook) 
         + https://www.facebook.com/groups/1315614958591398/
+        
+     * https://juniordeveloper.careers/roles/
+     
+     * https://www.careerjet.ch/junior-javascript-developer-jobs.html
     
 
 ## En general:
@@ -430,8 +434,6 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
    * https://swissdevjobs.ch/ Switzerland 
 
    * https://www.seek.com.au/ Australia - Nueva Zelanda
-
-   * https://www.careerjet.ch/junior-javascript-developer-jobs.html
    
 # Como obtener residencia digital en Estonia
 
