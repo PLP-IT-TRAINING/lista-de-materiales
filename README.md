@@ -299,6 +299,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  
 ## Tuition Free Colleges
       + https://www.valuecolleges.com/ranking/best-free-colleges/
+## Free Courses    
+      + https://labor-migration.com/free-courses/
                  
 ## Full Stack Open - University of Helsinki (free)
 
