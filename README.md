@@ -187,6 +187,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
            Stanford
                  * General
                      + https://online.stanford.edu/content-gallery
+                 * Software 
+                     +  https://uit.stanford.edu/software
                  * CS105 - Introduction to Computers 2021
                      + https://www.youtube.com/watch?v=Sw6S48iZ6DM&list=PLRdiSwvnIWNQQ9IPTJvkhE63kTxkm0eQW
                  * CS106A - Programming Methodology 
