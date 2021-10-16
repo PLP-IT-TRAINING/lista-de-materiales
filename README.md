@@ -208,6 +208,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * Computer Science and Cybersecurity
                       + https://www.youtube.com/watch?v=J2txSFdQWIY&list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT
                       + https://www.youtube.com/watch?v=jyhIR3f46X0
+                      + https://online.stanford.edu/courses/xcs100-introduction-web-security
                  
             MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
