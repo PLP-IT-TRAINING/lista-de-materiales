@@ -185,6 +185,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * Data Analysis CS109
                     + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
            Stanford
+                 * General
+                     + https://online.stanford.edu/content-gallery
                  * CS105 - Introduction to Computers 2021
                      + https://www.youtube.com/watch?v=Sw6S48iZ6DM&list=PLRdiSwvnIWNQQ9IPTJvkhE63kTxkm0eQW
                  * CS106A - Programming Methodology 
@@ -204,6 +206,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * Computer Science and Cybersecurity
                       + https://www.youtube.com/watch?v=J2txSFdQWIY&list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT
                       + https://www.youtube.com/watch?v=jyhIR3f46X0
+                 
             MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
