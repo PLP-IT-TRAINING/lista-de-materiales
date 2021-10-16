@@ -430,6 +430,16 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
 
    * https://www.eu-startups.com/2019/06/10-european-startups-revolutionizing-mental-health/
 
+## Internships
+
+   * https://grabjobs.co/netherlands/front-end-jobs
+   
+   * https://pagodaprojects.com/internship/frontend-engineer-intern-2/
+   
+   * https://www.startus.cc/jobs/frontend/internship-thesis
+   
+   * https://internshala.com/internships/front%20end%20development-internship
+
 ## Otros
 
    * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
