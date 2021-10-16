@@ -248,6 +248,16 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://deeplearning.mit.edu/
                     + https://github.com/lexfridman/mit-deep-learning
                     + https://www.youtube.com/watch?v=s3MuSOl1Rog
+                 * Electricity and Magnetism: Electrostatics
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about
+                 * Electricity and Magnetism: Maxwell's Equations
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about
+                 * Electricity and Magnetism: Magnetic Fiels and Forces
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about
+                 * Software Construction in Java
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/course/
+                 * Advanced Software Construction in Java
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about
              UC Berkeley 
                  * UC Berkeley CS 162 Operating Systems and System Programming - Fall 2010 
                       + https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
