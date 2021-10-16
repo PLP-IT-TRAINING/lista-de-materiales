@@ -11,8 +11,12 @@ Hola, bienvenidos a PLP IT TRAINING ! Se aceptan Pull Requests y mensajes privad
 
 ## freeCodeCamp
 
-Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada curso te da un certificado. No te olvides de registrarte para ir guardando tus progresos!
+Por lejos la mejor pagina para empezar a aprender haciendo. Al finalizar cada curso te da un certificado. No te olvides de registrarte para ir guardando tus 
+progresos!
 
+    * Free Courses from top universities
+        + https://www.freecodecamp.org/news/free-courses-top-cs-universities/
+    
     * Principal
         + https://www.freecodecamp.org/
         
