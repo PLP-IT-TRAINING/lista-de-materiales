@@ -300,6 +300,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  
 ## Tuition Free Colleges
       + https://www.valuecolleges.com/ranking/best-free-colleges/
+      
 ## Free Courses    
       + https://labor-migration.com/free-courses/
                  
@@ -410,7 +411,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
      
      * https://www.careerjet.ch/junior-javascript-developer-jobs.html
     
-
+     * https://euremotejobs.com/job/junior-front-end-react-developer/
+     
 ## En general:
 
     * DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO 
