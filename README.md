@@ -297,6 +297,10 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  
                Oxford 
                  * https://www.oxfordhomestudy.com/courses/cyber-security-courses/free-cyber-security-courses 
+          
+## Bjarne Stroustrup - The Essence of C++
+   
+   * https://www.youtube.com/watch?v=86xWVb4XIyE&t=672s
                  
 ## Tuition Free Colleges
       + https://www.valuecolleges.com/ranking/best-free-colleges/
