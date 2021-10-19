@@ -211,6 +211,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                       + https://see.stanford.edu/Course/CS106B/143
                  * CS107 - Programming Paradigms 
                       + https://see.stanford.edu/Course/CS107
+                 * CS142 - HTML, CSS, JavaScript, React
+                      + http://web.stanford.edu/class/cs142/lectures.html
                  * EE104 - Introduction to Machine Learning 2020
                       + https://www.youtube.com/watch?v=jbNVUCRMUP0&list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK
                  * CS229 - Machine Learning 2018 
