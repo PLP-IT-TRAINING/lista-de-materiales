@@ -319,6 +319,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  
                Oxford 
                  * https://www.oxfordhomestudy.com/courses/cyber-security-courses/free-cyber-security-courses 
+               UTokyo - OpenCourseWare
+                 * https://ocw.u-tokyo.ac.jp/?interface_language=en
           
 ## Bjarne Stroustrup - The Essence of C++
    
