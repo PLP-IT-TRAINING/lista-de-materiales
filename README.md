@@ -239,6 +239,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                   
                  
             MIT
+                 * General
+                    + https://openlearning.mit.edu/
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
                  * The Missing Semester of Your CS Education
@@ -278,6 +280,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/course/
                  * Advanced Software Construction in Java
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about
+                 
              UC Berkeley 
                  * UC Berkeley CS 162 Operating Systems and System Programming - Fall 2010 
                       + https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws
