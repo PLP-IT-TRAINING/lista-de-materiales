@@ -342,12 +342,12 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * https://ocw.u-tokyo.ac.jp/?interface_language=en
                  
                  
-               Master of Project  
-                 * https://masterofproject.com/courses/category/FREE%20Courses
+##   Master of Project  
+      * https://masterofproject.com/courses/category/FREE%20Courses             
           
 ## Bjarne Stroustrup - The Essence of C++
    
-   * https://www.youtube.com/watch?v=86xWVb4XIyE&t=672s
+      * https://www.youtube.com/watch?v=86xWVb4XIyE&t=672s
                  
 ## Tuition Free Colleges
       + https://www.valuecolleges.com/ranking/best-free-colleges/
@@ -381,12 +381,12 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
 
 ## OTROS RECURSOS:
 
- * How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                                                                                        https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
+    * How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                                                                                        https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
 
 # Free Courses
 
-   * Coleccion de recursos gratuitos!
-      + https://freecourses.github.io/
+    * Coleccion de recursos gratuitos!
+       + https://freecourses.github.io/
 
 
 # DATA SCIENCE
@@ -489,54 +489,54 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
 
 ## Trabajo en StartUps
 
-   * https://startup.career/internship/
+      * https://startup.career/internship/
 
-   * https://www.crunchbase.com/
+      * https://www.crunchbase.com/
 
-   * https://startup.jobs/
+      * https://startup.jobs/
 
-   * https://angel.co/jobs
+      * https://angel.co/jobs
 
-   * https://start-up.house/en/careers/junior_frontend_developer
+      * https://start-up.house/en/careers/junior_frontend_developer
 
-   * https://www.startup.ch/startup-directory Switzerland
+      * https://www.startup.ch/startup-directory Switzerland
 
-   * https://www.sictic.ch/startups/
+      * https://www.sictic.ch/startups/
 
-   * https://www.top100startups.swiss/index.cfm?page=136340&profilesEntry=1
+      * https://www.top100startups.swiss/index.cfm?page=136340&profilesEntry=1
 
-   * https://www.swissacceleration.com/
+      * https://www.swissacceleration.com/
 
-   * https://www.startup.ch/index.cfm?page=129367&profil_id=8598
+      * https://www.startup.ch/index.cfm?page=129367&profil_id=8598
 
-   * https://medicalstartups.org/top/mental/ 
+      * https://medicalstartups.org/top/mental/ 
 
-   * https://www.eu-startups.com/2019/06/10-european-startups-revolutionizing-mental-health/
+      * https://www.eu-startups.com/2019/06/10-european-startups-revolutionizing-mental-health/
 
-   * https://www.medicalstartups.org/
+      * https://www.medicalstartups.org/
 
 ## Internships
 
-   * https://grabjobs.co/netherlands/front-end-jobs
-   
-   * https://pagodaprojects.com/internship/frontend-engineer-intern-2/
-   
-   * https://www.startus.cc/jobs/frontend/internship-thesis
-   
-   * https://internshala.com/internships/front%20end%20development-internship
+      * https://grabjobs.co/netherlands/front-end-jobs
+
+      * https://pagodaprojects.com/internship/frontend-engineer-intern-2/
+
+      * https://www.startus.cc/jobs/frontend/internship-thesis
+
+      * https://internshala.com/internships/front%20end%20development-internship
 
 ## Otros
 
-   * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
+      * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
 
-   * https://swissdevjobs.ch/ Switzerland 
+      * https://swissdevjobs.ch/ Switzerland 
 
-   * https://www.seek.com.au/ Australia - Nueva Zelanda
+      * https://www.seek.com.au/ Australia - Nueva Zelanda
 
-   * https://www.reed.co.uk/ United Kingdom 
+      * https://www.reed.co.uk/ United Kingdom 
 
-   * https://www.edarabia.com/ Saudi Arabia
+      * https://www.edarabia.com/ Saudi Arabia
    
 # Como obtener residencia digital en Estonia
 
-   * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
+      * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
