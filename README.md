@@ -222,6 +222,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                       + https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
                  * CS230 - Deep Learning 2018
                       + https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+                      + https://cs230.stanford.edu/lecture/
                  * Computer Science and Cybersecurity
                       + https://www.youtube.com/watch?v=J2txSFdQWIY&list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT
                       + https://www.youtube.com/watch?v=jyhIR3f46X0
@@ -229,6 +230,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                       + https://online.stanford.edu/cybersecurity/free-content
                  * Lista de cursos, cs y ee
                       + https://ee.stanford.edu/eecs
+                     
+                      
+                  
                  
             MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
