@@ -198,6 +198,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://www.youtube.com/watch?v=uVJ0Il5WvbE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW
                  * Data Analysis CS109
                     + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
+                 * Git
+                    + https://cs61.seas.harvard.edu/site/ref/git/
            Stanford
                  * General
                      + https://online.stanford.edu/content-gallery
