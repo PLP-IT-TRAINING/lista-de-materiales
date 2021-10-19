@@ -200,6 +200,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
                  * Git
                     + https://cs61.seas.harvard.edu/site/ref/git/
+                    
+                    
+                    
            Stanford
                  * General
                      + https://online.stanford.edu/content-gallery
@@ -280,6 +283,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/course/
                  * Advanced Software Construction in Java
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about
+                    
+                    
+                    
                  
              UC Berkeley 
                  * UC Berkeley CS 162 Operating Systems and System Programming - Fall 2010 
@@ -296,6 +302,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                      + https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF
                  * UC Berkeley CS 182 Deep Learning Spring 2021
                      + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
+                     
+                     
              Princeton
                  * Bitcoin And Cryptocurrency Lectures
                      + https://www.youtube.com/watch?v=fOMVZXLjKYo&list=PLGviaF-Rdsba9pAuUgugeODELmeZbnWoq
@@ -303,24 +311,39 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                      + Part 1: https://www.youtube.com/watch?v=9nuAjYRbITQ
                      + Part 2: https://www.youtube.com/watch?v=foCkCSZXOt8
                      + Part 3: https://www.youtube.com/watch?v=BHMETwOXvWw
+                     
+                     
+                     
               Cornell
                  * CS 5787: Applied Machine Learning
                      + https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
                      + https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
                  * CS4780 Machine Learning for Decision Making
                      + https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+                     
+                     
+                     
                Caltech
                  * Foundations of Machine Learning 
                      + https://www.youtube.com/watch?v=qiLKPPyvVKw&list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp
                  * Machine Learning Course - CS 156
                      + https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A
+                     
+                     
                Linux
-                 * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course      
+                 * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course   
+                 
                  
                Oxford 
                  * https://www.oxfordhomestudy.com/courses/cyber-security-courses/free-cyber-security-courses 
+                 
+                 
                UTokyo - OpenCourseWare
                  * https://ocw.u-tokyo.ac.jp/?interface_language=en
+                 
+                 
+               Master of Project  
+                 * https://masterofproject.com/courses/category/FREE%20Courses
           
 ## Bjarne Stroustrup - The Essence of C++
    
