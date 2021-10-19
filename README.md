@@ -227,6 +227,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                       + https://www.youtube.com/watch?v=jyhIR3f46X0
                       + https://online.stanford.edu/courses/xcs100-introduction-web-security
                       + https://online.stanford.edu/cybersecurity/free-content
+                 * Lista de cursos, cs y ee
+                      + https://ee.stanford.edu/eecs
                  
             MIT
                  * Introductory Programming Courses (Python, Java, C, C++)
