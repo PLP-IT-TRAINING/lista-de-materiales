@@ -540,6 +540,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.reed.co.uk/ United Kingdom 
 
       * https://www.edarabia.com/ Saudi Arabia
+      
+      * https://www.nav.no/no/person Norway
    
 # Como obtener residencia digital en Estonia
 
