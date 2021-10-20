@@ -542,6 +542,7 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.edarabia.com/ Saudi Arabia
       
       * https://www.nav.no/no/person Norway
+      * www.finn.no/job/; www.careerjet.no; www.jobbjakt.no/vikarbyra.htm; www.jobbdirekte.no; www.manpower.no; www.adecco.no y www.legejobber.no Norway
    
 # Como obtener residencia digital en Estonia
 
