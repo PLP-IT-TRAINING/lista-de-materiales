@@ -490,6 +490,10 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
      * Otro
         + https://arc.dev/remote-jr-jobs
         + https://latamremote.com/post/id
+        
+## A remoto
+      
+      * https://talently.tech/blog/bolsas-trabajo-internacionales-programadores-desarrolladores-remotos/
 
 ## Trabajo en StartUps
 
