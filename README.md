@@ -508,6 +508,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://trabajoenremoto.com/category/programacion
       
       * https://www.remotify.es/trabajo/programador-a-frontend-react-remoto/
+      
+      * https://remoteok.io/remote-jobs/105930-remote-node-js-developer-toptal
 
 ## Trabajo en StartUps
 
