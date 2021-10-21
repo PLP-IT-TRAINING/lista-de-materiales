@@ -546,6 +546,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.startus.cc/jobs/frontend/internship-thesis
 
       * https://internshala.com/internships/front%20end%20development-internship
+      
+      * https://joinhandshake.com/blog/students/category/research-career-paths/
 
 ## Otros
 
