@@ -152,10 +152,7 @@ progresos!
       
 ## Skillshare
       * https://www.skillshare.com/
-   
-## CISA
-      * https://www.cisa.gov/cybersecurity-training-exercises USA Government
-    
+      
 ## HackerRank
 
 Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
@@ -166,6 +163,16 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
      * https://argentinaprograma.com/
 
 **Super recomendado** para aprender JavaScript y Front-End con React. Este **NO ES** el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
+   
+## CISA
+      * https://www.cisa.gov/cybersecurity-training-exercises USA Government
+      
+## VeteranSec
+      * https://veteransec.com/
+## The Cyber Mentor
+      * https://www.thecybermentor.com/
+    
+
 
 
 ## Videos de Programacion Youtube (gratis)
@@ -342,15 +349,12 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * https://ocw.u-tokyo.ac.jp/?interface_language=en
             
 ## Microsoft
-
-      * https://docs.microsoft.com/en-us/learn/topics/universities
-                 
+      * https://docs.microsoft.com/en-us/learn/topics/universities               
                  
 ##   Master of Project  
       * https://masterofproject.com/courses/category/FREE%20Courses             
           
-## Bjarne Stroustrup - The Essence of C++
-   
+## Bjarne Stroustrup - The Essence of C++ 
       * https://www.youtube.com/watch?v=86xWVb4XIyE&t=672s
                  
 ## Tuition Free Colleges
@@ -360,7 +364,6 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       + https://labor-migration.com/free-courses/
                  
 ## Full Stack Open - University of Helsinki (free)
-
     * https://fullstackopen.com/en/
 
 ## The Odin Project
