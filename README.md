@@ -183,6 +183,21 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       
 ## The Open University UK
       * https://www.openuniversity.edu/
+      
+## Free UK courses for the Unemployed
+      * https://free2learn.org.uk/digital-skills/
+      * https://theskillstoolkit.campaign.gov.uk/
+      * https://nationalcareers.service.gov.uk/find-a-course
+  
+## National Institute of Standars and Technology USA
+      * https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
+      
+## Language Courses
+      * https://www.fsi-language-courses.org/fsi-italian-fast-course/
+      
+## Reed Courses
+      * https://www.reed.co.uk/courses/reboot-your-cv-skills/286082#/courses/free
+      
     
 
 
@@ -553,6 +568,9 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.eu-startups.com/2019/06/10-european-startups-revolutionizing-mental-health/
 
       * https://www.medicalstartups.org/
+## Scholarships
+      
+      * https://www.scholars4dev.com/1892/government-scholarships-for-developing-countries/
 
 ## Internships
 
