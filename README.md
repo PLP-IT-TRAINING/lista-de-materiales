@@ -544,6 +544,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.remotify.es/trabajo/programador-a-frontend-react-remoto/
       
       * https://remoteok.io/remote-jobs/105930-remote-node-js-developer-toptal
+      
+      * https://euremotejobs.com/
 
 ## Trabajo en StartUps
 
@@ -596,6 +598,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://careers.greatercph.com/#?cludoquery=*&cludopage=12 Copenhague 
 
       * https://swissdevjobs.ch/ Switzerland 
+      
+      * https://www.cwjobs.co.uk/jobs/junior-engineer?s=header
 
       * https://www.seek.com.au/ Australia - Nueva Zelanda
 
