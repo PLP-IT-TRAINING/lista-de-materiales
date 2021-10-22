@@ -199,6 +199,12 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 ## Reed Courses
       * https://www.reed.co.uk/courses/reboot-your-cv-skills/286082#/courses/free
       
+## Tel Aviv University
+      * https://en-tauonline.tau.ac.il/courses/12
+      
+## Carnegie Mellon University Open Learning
+      * https://oli.cmu.edu/product-category/computer-science-programming-indep/
+      
     
 
 
@@ -241,6 +247,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
            Stanford
                  * General
                      + https://online.stanford.edu/content-gallery
+                     + https://online.stanford.edu/search-catalog?type=All&keywords=Free&delivery[164]=164&free_or_paid[free]=free&availability[available]=available
                  * Software 
                      +  https://uit.stanford.edu/software
                  * CS105 - Introduction to Computers 2021
@@ -338,6 +345,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * UC Berkeley CS 182 Deep Learning Spring 2021
                      + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
                      
+             Yale
+                  * https://oyc.yale.edu/ // Look for Italian Language
+                     
                      
              Princeton
                  * Bitcoin And Cryptocurrency Lectures
@@ -346,32 +356,25 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                      + Part 1: https://www.youtube.com/watch?v=9nuAjYRbITQ
                      + Part 2: https://www.youtube.com/watch?v=foCkCSZXOt8
                      + Part 3: https://www.youtube.com/watch?v=BHMETwOXvWw
-                     
-                     
-                     
+                                   
               Cornell
                  * CS 5787: Applied Machine Learning
                      + https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
                      + https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
                  * CS4780 Machine Learning for Decision Making
                      + https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
-                     
-                     
-                     
+                        
                Caltech
                  * Foundations of Machine Learning 
                      + https://www.youtube.com/watch?v=qiLKPPyvVKw&list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp
                  * Machine Learning Course - CS 156
                      + https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A
-                     
-                     
+                            
                Linux
                  * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course   
-                 
-                 
+                
                Oxford 
                  * https://www.oxfordhomestudy.com/courses/cyber-security-courses/free-cyber-security-courses 
-                 
                  
                UTokyo - OpenCourseWare
                  * https://ocw.u-tokyo.ac.jp/?interface_language=en
@@ -379,7 +382,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 ## Microsoft
       * https://docs.microsoft.com/en-us/learn/topics/universities               
                  
-##   Master of Project  
+## Master of Project  
       * https://masterofproject.com/courses/category/FREE%20Courses             
           
 ## Bjarne Stroustrup - The Essence of C++ 
@@ -569,6 +572,7 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.eu-startups.com/2019/06/10-european-startups-revolutionizing-mental-health/
 
       * https://www.medicalstartups.org/
+      
 ## Scholarships
       
       * https://www.scholars4dev.com/1892/government-scholarships-for-developing-countries/
