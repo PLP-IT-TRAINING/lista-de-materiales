@@ -188,6 +188,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       * https://free2learn.org.uk/digital-skills/
       * https://theskillstoolkit.campaign.gov.uk/
       * https://nationalcareers.service.gov.uk/find-a-course
+      * https://nationalcareers.service.gov.uk/find-a-course/where-to-find-free-online-learning
   
 ## National Institute of Standars and Technology USA
       * https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
