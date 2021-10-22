@@ -176,6 +176,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 ## Cyber Degrees
       * https://www.cyberdegrees.org/resources/free-online-courses/
       
+## Core Security
+      * https://www.coresecurity.com/resources?title=&field_cta_type_relationship_target_id=54&field_product_line_relationship_target_id=All
+      
 ## National Service Government UK
       * https://nationalcareers.service.gov.uk/find-a-course/page?searchTerm=&town=&courseType=[%22Online%22]&courseHours=[%22%22]&courseStudyTime=[%22%22]&startDate=Anytime&distance=10%20miles&filterA=True&orderByValue=Relevance&coordinates=&campaignCode=LEVEL3_FREE&page=3&D=0
       * https://www.gov.uk/guidance/free-courses-for-jobs
