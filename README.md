@@ -505,6 +505,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
     
      * https://euremotejobs.com/job/junior-front-end-react-developer/
      
+     * https://www.empleosit.com.ar/display-job/48967/Primer-empleo-Cobol.html
+     
 ## En general:
 
     * DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO 
