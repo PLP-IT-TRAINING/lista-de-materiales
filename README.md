@@ -558,7 +558,7 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://remote.recruit.net/search.html?query=HTML%2C+CSS%2C+JavaScript&s=
       
-      * 
+     
 
 ## Trabajo en StartUps
 
