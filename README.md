@@ -563,6 +563,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://remote.recruit.net/search.html?query=HTML%2C+CSS%2C+JavaScript&s=
       
+      * https://remotists.com/f/software_engineer/remote/
+      
      
 
 ## Trabajo en StartUps
