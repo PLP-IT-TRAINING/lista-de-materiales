@@ -512,6 +512,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
      
      * https://www.empleosit.com.ar/display-job/48967/Primer-empleo-Cobol.html
      
+     * https://www.jrdevjobs.com/
+     
 ## En general:
 
     * DEPLOYAR EMPLEOS: Grupo de Telegram, MUY BUENO 
