@@ -572,6 +572,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://cryptocurrencyjobs.co/
       
       * https://firstjob.me/ofertas
+      
+      * https://codetrails.com/
      
 
 ## Trabajo en StartUps
