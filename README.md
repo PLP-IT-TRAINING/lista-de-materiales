@@ -651,6 +651,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://jobs.thelocal.com/search/#results/6171cf628799f6a9f6bb638d?kw=&loc=italy&page_num=4 Italy
       
+      * https://www.getonbrd.com/empleos/programacion Uruguay
+      
 # Como obtener residencia digital en Estonia
 
       * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
