@@ -659,6 +659,10 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://grow.google/androiddev/#?modal_active=none
       
+# Becas Globant
+      
+      * https://more.globant.com/es/code-your-future-tdf
+      
 # Como obtener residencia digital en Estonia
 
       * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
