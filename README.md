@@ -655,6 +655,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://www.getonbrd.com/empleos/programacion Uruguay
       
+      * http://www.findajobinitaly.com/search?keywords=junior+software&city= Italy
+      
 # Associate Android Developer Certification
       
       * https://grow.google/androiddev/#?modal_active=none
