@@ -606,6 +606,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://thehub.io/
       
+      * https://www.startupschool.org/?utm_campaign=ycdc_header&utm_source=yc
+      
 ## Scholarships
       
       * https://www.scholars4dev.com/1892/government-scholarships-for-developing-countries/
