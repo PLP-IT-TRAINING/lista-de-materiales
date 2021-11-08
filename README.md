@@ -102,6 +102,21 @@ progresos!
         + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
+        
+## COBOL
+    * https://go4it.solutions/es/blog/que-herramientas-necesitas-para-programar-en-cobol
+    * https://itoo.dev/p/lenguaje-cobol-desde-0?affcode=600175_rzvfjfzg
+    * https://ibm.github.io/mainframe-downloads/Training/Training.html
+    * https://ibm.github.io/mainframe-downloads/Training/adfz-learning-resources.html
+    * https://www.openmainframeproject.org/projects/cobolprogrammingcourse
+    * https://www.credly.com/org/ibm/badge/ibm-z-os-mainframe-practitioner
+    * https://www.credly.com/org/ibm/badge/cobol-programming-with-vscode
+    * https://www.credly.com/org/ibm/badge/ibm-developer-for-z-os-basics
+    * https://ibm.github.io/mainframe-downloads/Training/adfz-instructor-led-learning.html
+    * https://cardbiss.com/curso-gratuito-en-espanol-de-conceptos-basicos-de-ibm-cloud/
+    * https://runebook.dev/es/docs/gnu_cobol/index
+    * http://www.universocobol.com/2016/04/control-m-planificacion-de-ejecuciones.html
+    
 ## AWS eLearning
     * https://www.aws.training/
         
