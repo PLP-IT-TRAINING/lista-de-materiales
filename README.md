@@ -650,6 +650,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://www.internships.com/careers/software-engineer
       
       * https://internfreak.co/jobs-and-internship-opportunities?page=3&limit=15
+      
+      * https://ec.europa.eu/search/?swlang=es&queryText=junior+software+engineer // Pagina oficial de la Union Europea
 
 ## Otros
 
