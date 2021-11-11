@@ -264,6 +264,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
                  * Git
                     + https://cs61.seas.harvard.edu/site/ref/git/
+                 * Desing Principles in REACT
+                    + https://online-learning.harvard.edu/course/design-principles-react?delta=0  
+                 
                     
                     
                     
