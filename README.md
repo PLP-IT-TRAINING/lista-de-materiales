@@ -408,6 +408,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                UTokyo - OpenCourseWare
                  * https://ocw.u-tokyo.ac.jp/?interface_language=en
                  
+               NYU
+                 * https://cds.nyu.edu/deep-learning/
+                 
 ## Oracle
       * https://www.oracle.com/ar/education/oracle-next-education/
      
