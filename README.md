@@ -21,6 +21,11 @@ https://argentinaprograma.com/
 
 **Super recomendado** para aprender JavaScript y Front-End con React. Este NO ES el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
 
+## OTROS CURSOS
+
+1. https://github.com/microsoft/Web-Dev-For-Beginners Curso de Microsoft Azure para aprender programacion web, 12 semanas, gratis.
+
+2. https://github.com/microsoft/Data-Science-For-Beginners Curso de Microsoft Azure para aprender Data Science, 10 semanas, gratis. 
 
 ## Videos de Programacion Youtube (gratis)
 
