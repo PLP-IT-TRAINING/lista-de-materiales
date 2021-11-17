@@ -417,6 +417,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 ## Google
       * https://www.itsfoss.net/google-removes-restrictions-on-students-only-from-summer-of-code/
       * https://grow.google/intl/es#career
+      * https://www.coursera.org/professional-certificates/google-it-support
       
    # Associate Android Developer Certification
       
