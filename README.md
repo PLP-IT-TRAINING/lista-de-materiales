@@ -162,6 +162,9 @@ progresos!
 ## Bento.io
       * https://bento.io/
       
+## Pluralsight
+      * https://www.pluralsight.com/browse
+      
 ## Cybrary (ciberseguridad)
       * https://www.cybrary.it/
       
