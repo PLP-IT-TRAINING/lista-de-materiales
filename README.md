@@ -179,7 +179,6 @@ progresos!
 ## HackerRank
 
 Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
-
     * https://www.hackerrank.com/
       
 ## /r/Argentina PROGRAMA 
@@ -383,11 +382,11 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * UC Berkeley CS 182 Deep Learning Spring 2021
                      + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
                      
-             Yale
+              Yale
                   * https://oyc.yale.edu/ // Look for Italian Language
                      
                      
-             Princeton
+              Princeton
                  * Bitcoin And Cryptocurrency Lectures
                      + https://www.youtube.com/watch?v=fOMVZXLjKYo&list=PLGviaF-Rdsba9pAuUgugeODELmeZbnWoq
                  * Computer Architecture 
@@ -420,6 +419,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                NYU
                  * https://cds.nyu.edu/deep-learning/
                  
+               University of London 
+                 * https://www.coursera.org/degrees/bachelor-of-science-computer-science-london
+                 
 ## Oracle
       * https://www.oracle.com/ar/education/oracle-next-education/
      
@@ -429,7 +431,6 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       * https://www.coursera.org/professional-certificates/google-it-support
       
    # Associate Android Developer Certification
-      
       * https://grow.google/androiddev/#?modal_active=none
             
 ## Microsoft
@@ -453,15 +454,12 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 ## The Odin Project
 
 Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
-
     * https://www.theodinproject.com/
     
 ## Teach Yourself Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
-
     * https://teachyourselfcs.com/
 
 ## Download Free Books 
-
     * https://book4you.org/?signAll=1&ts=1729
 
 ## Apuntes
@@ -708,13 +706,11 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
       * https://www.zippia.com/
       
+      
 # Online Learning Review
       * https://www.bitdegree.org/online-learning-platforms
-      
 
-      
 # Becas Globant
-      
       * https://more.globant.com/es/code-your-future-tdf
       
 # Pentensting
@@ -722,7 +718,6 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * http://www.jasonbernier.com/oscp-review/
       
 # Como obtener residencia digital en Estonia
-
       * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
       * https://librestado.com/blog/trasladar-residencia-fiscal/
       * https://mevoyalmundo.com/agencias-empleo-suiza/
