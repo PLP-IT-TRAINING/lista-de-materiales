@@ -361,6 +361,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about
                  * System Dynamics: Systems Thinking for a Complex World
                     + https://www.youtube.com/watch?v=o-Yp8A7BPE8&list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3&index=1
+                 * Full Stack Development with MERN
+                    + https://executive-ed.xpro.mit.edu/professional-certificate-coding
                     
                     
                     
