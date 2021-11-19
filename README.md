@@ -425,6 +425,13 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                Atlassian 
                  * https://university.atlassian.com/student/collection/850385-learning-paths
                  
+               AutoDESK
+                 * https://www.coursera.org/specializations/autodesk-cad-cam-cae-mechanical-engineering
+                 
+               Hong Kong University
+                 * https://www.coursera.org/specializations/full-stack-react
+                 * https://www.coursera.org/learn/server-side-nodejs
+                 
 ## Oracle
       * https://www.oracle.com/ar/education/oracle-next-education/
      
