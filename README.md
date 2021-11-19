@@ -92,6 +92,7 @@ progresos!
         + https://www.youtube.com/watch?v=Uszj_k0DGsg 
         + https://www.youtube.com/watch?v=lX9hsdsAeTk
         + https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF
+        * https://www.youtube.com/watch?v=qsTthZi23VE
     * API's
         + https://www.youtube.com/watch?v=GZvSYJDk-us&t=11s
     * DevOps
