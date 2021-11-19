@@ -67,6 +67,7 @@ progresos!
         + https://www.youtube.com/watch?v=a_7Z7C_JCyo
         + https://www.youtube.com/watch?v=4UZrsTqkcW4&t=7s
         + https://www.youtube.com/watch?v=DLX62G4lc44&t=12341s
+        + https://www.youtube.com/watch?v=1DklrGoAxDE
     * Django
         + https://www.youtube.com/watch?v=qPtScmB8CgA
     * TypeScript
