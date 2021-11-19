@@ -422,6 +422,9 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                University of London 
                  * https://www.coursera.org/degrees/bachelor-of-science-computer-science-london
                  
+               Atlassian 
+                 * https://university.atlassian.com/student/collection/850385-learning-paths
+                 
 ## Oracle
       * https://www.oracle.com/ar/education/oracle-next-education/
      
