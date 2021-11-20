@@ -17,10 +17,8 @@ progresos!
     * Free Courses from top universities
         + https://www.freecodecamp.org/news/free-courses-top-cs-universities/
         + https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/
-    
     * Principal
         + https://www.freecodecamp.org/
-        
     * Concepts - Introduction
         + https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
         + https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
@@ -85,6 +83,9 @@ progresos!
     * Database
         + https://www.youtube.com/watch?v=4cWkVbC2bNE
         + https://www.youtube.com/watch?v=4cWkVbC2bNE&t=1s (Cornell University SQL, NoSQL, Large-Scala Data Analysis)
+    * Data Structures and Algorithms
+        + https://www.youtube.com/watch?v=zg9ih6SVACc
+        + https://www.youtube.com/watch?v=RBSGKlAvoiM&t=446s
     * AWS
         + https://www.youtube.com/watch?v=ulprqHHWlng AWS Basics
         + https://www.youtube.com/watch?v=KX_AfyrhlgQ AWS SysOps Administrator Associate 2020
