@@ -719,6 +719,7 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       
 # Online Learning Review
       * https://www.bitdegree.org/online-learning-platforms
+      * https://iximiuz.com/en/posts/learn-by-doing-platforms/
 
 # Becas Globant
       * https://more.globant.com/es/code-your-future-tdf
