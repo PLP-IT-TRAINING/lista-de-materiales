@@ -627,6 +627,8 @@ Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de c
       * https://firstjob.me/ofertas
       
       * https://codetrails.com/
+      
+      * https://www.turing.com/jobs/remote-software-engineer-jobs
      
 
 ## Trabajo en StartUps
