@@ -198,6 +198,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       
 ## Cyber Degrees
       * https://www.cyberdegrees.org/resources/free-online-courses/
+      * https://opensecuritytraining.info/CISSP-Main.html
+      * https://opensecuritytraining.info/Training.html
       
 ## Core Security
       * https://www.coresecurity.com/resources?title=&field_cta_type_relationship_target_id=54&field_product_line_relationship_target_id=All
