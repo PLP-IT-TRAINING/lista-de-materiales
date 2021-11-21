@@ -463,7 +463,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
     * https://fullstackopen.com/en/
     * https://java-programming.mooc.fi/ // Java
     * https://www.mooc.fi/en/ // Open Source Courses
-    * https://cybersecuritybase.mooc.fi/
+    * https://cybersecuritybase.mooc.fi/ // CyberSecurity
+    * https://courses.helsinki.fi/en/hymy005/120776718 // Data Science
 
 ## The Odin Project
 
