@@ -465,6 +465,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
     * https://www.mooc.fi/en/ // Open Source Courses
     * https://cybersecuritybase.mooc.fi/ // CyberSecurity
     * https://courses.helsinki.fi/en/hymy005/120776718 // Data Science
+    * https://studies.helsinki.fi/courses?customCodeUrns=hy-org-48645785&page=3&searchText=&studyYear=2021&teachingLanguageUrn=urn%3Acode%3Alanguage%3Aen&type=urn%3Acode%3Acustom%3Ahy-university-root-id%3Aopintotarjonta%3Amooc&type=urn%3Acode%3Acustom%3Ahy-university-root-id%3Aopintotarjonta%3Averkko_kurssi&type=urn%3Acode%3Aassessment-item-type%3Aindependent-work
 
 ## The Odin Project
 
