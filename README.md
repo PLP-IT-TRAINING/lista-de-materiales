@@ -462,6 +462,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 ## Full Stack Open - University of Helsinki (free)
     * https://fullstackopen.com/en/
     * https://java-programming.mooc.fi/ // Java
+    * https://www.mooc.fi/en/ // Open Source Courses
 
 ## The Odin Project
 
