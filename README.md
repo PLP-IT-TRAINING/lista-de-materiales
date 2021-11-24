@@ -105,13 +105,7 @@ progresos!
         + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
-    * Cloud Computing
-        + https://www.youtube.com/watch?v=ngK97cSXWoM
-    * Computer Science for Business Professional - Computational Thinking
-        + https://www.youtube.com/watch?v=ngK97cSXWoM
-    * Programming Languages
-        + https://www.youtube.com/watch?v=31CxTRTi9ns
-        + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
+   
         
         
 ## COBOL
@@ -284,6 +278,13 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://cs61.seas.harvard.edu/site/ref/git/
                  * Desing Principles in REACT
                     + https://online-learning.harvard.edu/course/design-principles-react?delta=0  
+                 * Cloud Computing
+                    + https://www.youtube.com/watch?v=ngK97cSXWoM
+                 * Computer Science for Business Professional - Computational Thinking
+                    + https://www.youtube.com/watch?v=ngK97cSXWoM
+                 * Programming Languages
+                    + https://www.youtube.com/watch?v=31CxTRTi9ns
+                    + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
                  
                     
                     
