@@ -105,6 +105,14 @@ progresos!
         + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
+    * Cloud Computing
+        + https://www.youtube.com/watch?v=ngK97cSXWoM
+    * Computer Science for Business Professional - Computational Thinking
+        + https://www.youtube.com/watch?v=ngK97cSXWoM
+    * Programming Languages
+        + https://www.youtube.com/watch?v=31CxTRTi9ns
+        + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
+        
         
 ## COBOL
     * https://go4it.solutions/es/blog/que-herramientas-necesitas-para-programar-en-cobol
