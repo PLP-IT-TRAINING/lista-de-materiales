@@ -285,6 +285,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * Programming Languages
                     + https://www.youtube.com/watch?v=31CxTRTi9ns
                     + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
+                 * OOP and AI
+                    + https://www.youtube.com/watch?v=g7QWqKj0ch8
                  
                     
                     
