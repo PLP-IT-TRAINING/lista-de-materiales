@@ -525,8 +525,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
 
 ## The Odin Project
 
-Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
-    * https://www.theodinproject.com/
+    Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
+          * https://www.theodinproject.com/
     
 ## Teach Yourself Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
     * https://teachyourselfcs.com/
