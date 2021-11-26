@@ -374,6 +374,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://www.youtube.com/watch?v=o-Yp8A7BPE8&list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3&index=1
                  * Full Stack Development with MERN
                     + https://executive-ed.xpro.mit.edu/professional-certificate-coding
+                 * Artificial Intelligence and Machine Learning 2020
+                    + https://www.youtube.com/watch?v=t4K6lney7Zw
                 
                     
                     
