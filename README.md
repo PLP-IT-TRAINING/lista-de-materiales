@@ -287,6 +287,45 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
                  * OOP and AI
                     + https://www.youtube.com/watch?v=g7QWqKj0ch8
+                    + https://www.youtube.com/watch?v=ECMSnU9ilbQ // OOP in Python
+                 * React
+                    + https://www.youtube.com/watch?v=vxU2Rr22GNY // React Basics
+                    + https://www.youtube.com/watch?v=9NQtG_IIh6M // React 1
+                    + https://www.youtube.com/watch?v=D7-Kc3umN5k // React 2
+                    + https://www.youtube.com/watch?v=9j2GIws5OQ4 // Thinking in React
+                 * Regular Expressions
+                    + https://www.youtube.com/watch?v=9cCaCwBKf5Y
+                 * Docker
+                    + https://www.youtube.com/watch?v=VzzwnsLX_5o
+                 * CSS Basics
+                    + https://www.youtube.com/watch?v=DI3789tiKAY
+                 * Boostrap Basics
+                    + https://www.youtube.com/watch?v=LcbR_AiaGdg
+                 * HTML Basics
+                    + https://www.youtube.com/watch?v=GHDo5IaLj70
+                 * Linux Commands Tutorial
+                    + https://www.youtube.com/watch?v=a0EKtHCoCXU
+                 * SQL Basics
+                    + https://www.youtube.com/watch?v=hAexYxe2YZU
+                 * JavaScript Basics
+                    + https://www.youtube.com/watch?v=28rJgMiFb8M
+                 * GIT and GitHub
+                    + https://www.youtube.com/watch?v=dAHgwd2U0Jg
+                 * DevOps with Travis CI
+                    + https://www.youtube.com/watch?v=kxEKygtd2eM
+                 * Cryptocurrency Basics
+                    + https://www.youtube.com/watch?v=pSCqqztBBv0
+                 * C tutorial
+                    + https://www.youtube.com/watch?v=MJ0sbMUGbKE&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=22
+                 * Flask tutorial
+                    + https://www.youtube.com/watch?v=2ubExhDWxrg&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=32
+                 * Functional Programming Basics
+                    + https://www.youtube.com/watch?v=h_7LhTnNV-U&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=46
+                 * Python tutorial
+                    + https://www.youtube.com/watch?v=aennIqXu5uI&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=64
+                 * Kali Linux
+                    + https://www.youtube.com/watch?v=UvloP0bCkmY&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=52
+                   
                  
                     
                     
