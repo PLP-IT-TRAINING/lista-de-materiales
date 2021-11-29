@@ -365,10 +365,18 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                       + https://www.youtube.com/watch?v=jyhIR3f46X0
                       + https://online.stanford.edu/courses/xcs100-introduction-web-security
                       + https://online.stanford.edu/cybersecurity/free-content
+                      + https://www.edx.org/course/cybersecurity-clinic
                  * Web Security
                       + https://web.stanford.edu/class/cs253/  
                  * Lista de cursos, cs y ee
                       + https://ee.stanford.edu/eecs
+                 * Algorithms: Design and Analysis, Part 1
+                      + https://www.edx.org/course/algorithms-design-and-analysis
+                 * Algorithms: Design and Analysis, Part 2
+                      + https://www.edx.org/course/algorithms-design-and-analysis-part-2-2
+                 * IoT
+                      + https://online.stanford.edu/courses/xee100-introduction-internet-things
+                 * 
                      
                       
                   
@@ -378,6 +386,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                     + https://openlearning.mit.edu/
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
+                 *  * Introduction to Computer Science and Programming in Python
+                    + https://www.edx.org/course/introduction-to-computer-science-and-programming-7
                  * The Missing Semester of Your CS Education
                     + https://www.youtube.com/watch?v=Z56Jmr9Z34Q&t=23s
                     + https://missing.csail.mit.edu/2020/course-shell/
@@ -422,6 +432,7 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                  * Artificial Intelligence and Machine Learning 2020
                     + https://www.youtube.com/watch?v=t4K6lney7Zw
                 
+                
                     
                     
                     
@@ -453,6 +464,12 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                      + Part 1: https://www.youtube.com/watch?v=9nuAjYRbITQ
                      + Part 2: https://www.youtube.com/watch?v=foCkCSZXOt8
                      + Part 3: https://www.youtube.com/watch?v=BHMETwOXvWw
+                 * Algorithms: Part 1
+                     + https://www.coursera.org/learn/algorithms-part1
+                 * Algorithms: Part 2
+                    + https://www.coursera.org/learn/algorithms-part2
+                 * Computer Science: Algorithms, Theory, and Machines
+                    + https://www.coursera.org/learn/cs-algorithms-theory-machines
                                    
               Cornell
                  * CS 5787: Applied Machine Learning
@@ -466,6 +483,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
                      + https://www.youtube.com/watch?v=qiLKPPyvVKw&list=PLVNifWxslHCA5GUh0o92neMiWiQiGVFqp
                  * Machine Learning Course - CS 156
                      + https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A
+                 * Learning from Data
+                     + https://home.work.caltech.edu/telecourse.html
                             
                Linux
                  * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course   
