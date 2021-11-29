@@ -237,6 +237,10 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       
 ## Carnegie Mellon University Open Learning
       * https://oli.cmu.edu/product-category/computer-science-programming-indep/
+
+## Moralis
+      * https://moralis.io/
+      * https://academy.moralis.io/courses/blockchain-bitcoin-101
       
 ## React Free Courses
       * https://reactjs.org/community/courses.html
