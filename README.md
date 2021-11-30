@@ -181,8 +181,12 @@ progresos!
       
 ## HackerRank
 
-Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
-    * https://www.hackerrank.com/
+      Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recomendamos hacer HackerRank! Tiene certificaciones para principiantes.
+          * https://www.hackerrank.com/
+ 
+## Advent of Code
+   
+      * https://adventofcode.com 
       
 ## /r/Argentina PROGRAMA 
      * https://argentinaprograma.com/
