@@ -803,6 +803,8 @@ Para practicar ejercicios de logica y fundamentos, ademas de FreeCodeCamp recome
       
       * https://www.zippia.com/
       
+      * https://www.smartr.me/jobs
+      
       
 # Online Learning Review
       * https://www.bitdegree.org/online-learning-platforms
