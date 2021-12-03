@@ -105,6 +105,7 @@ progresos!
         + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
+    
    
         
         
@@ -380,7 +381,8 @@ progresos!
                       + https://www.edx.org/course/algorithms-design-and-analysis-part-2-2
                  * IoT
                       + https://online.stanford.edu/courses/xee100-introduction-internet-things
-                 * 
+                 * * SwiftUI
+                      + https://www.youtube.com/watch?v=bqu6BquVi2M
                      
                       
                   
