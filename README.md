@@ -125,6 +125,7 @@ progresos!
     
 ## AWS eLearning
     * https://www.aws.training/
+    * https://aws.amazon.com/es/free/devops/ // DevOps
         
 ## You Don't Know JS
     * Book series
@@ -631,6 +632,10 @@ progresos!
 
     * Asadito js
           + https://github.com/asaditojs/react-for-beginners
+          
+# DevOps
+      * https://geekflare.com/es/learn-devops/
+      * https://medium.com/javarevisited/10-free-online-courses-to-learn-devops-for-beginners-9feadb644f50
 
 # Busqueda de trabajos 
 
