@@ -335,6 +335,7 @@ progresos!
                     + https://www.youtube.com/watch?v=aennIqXu5uI&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=64
                  * Kali Linux
                     + https://www.youtube.com/watch?v=UvloP0bCkmY&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=52
+                 
                    
                  
                     
