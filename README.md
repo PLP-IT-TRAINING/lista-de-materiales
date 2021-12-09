@@ -270,71 +270,71 @@ progresos!
         	Harvard
                  * CS50 Lectures 2020 
                     + https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+                 * HTML Basics
+                    + https://www.youtube.com/watch?v=GHDo5IaLj70
+                 * CSS Basics
+                    + https://www.youtube.com/watch?v=DI3789tiKAY
+                 * Boostrap Basics
+                    + https://www.youtube.com/watch?v=LcbR_AiaGdg
+                 * JavaScript Basics
+                    + https://www.youtube.com/watch?v=28rJgMiFb8M
+                 * Python tutorial
+                    + https://www.youtube.com/watch?v=aennIqXu5uI&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=64
+                 * Flask tutorial
+                    + https://www.youtube.com/watch?v=2ubExhDWxrg&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=32
+                 * Programming Languages
+                    + https://www.youtube.com/watch?v=31CxTRTi9ns
+                    + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
+                 * Functional Programming Basics
+                    + https://www.youtube.com/watch?v=h_7LhTnNV-U&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=46
+                 * C tutorial
+                    + https://www.youtube.com/watch?v=MJ0sbMUGbKE&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=22
+                 * React
+                    + https://www.youtube.com/watch?v=vxU2Rr22GNY // React Basics
+                    + https://www.youtube.com/watch?v=9NQtG_IIh6M // React 1
+                    + https://www.youtube.com/watch?v=D7-Kc3umN5k // React 2
+                    + https://www.youtube.com/watch?v=9j2GIws5OQ4 // Thinking in React
+                 * Desing Principles in REACT
+                    + https://online-learning.harvard.edu/course/design-principles-react?delta=0  
+                 * Git
+                    + https://cs61.seas.harvard.edu/site/ref/git/
+                 * GIT and GitHub
+                    + https://www.youtube.com/watch?v=dAHgwd2U0Jg
                  * CS50's Web Programming with Python and JavaScript 2020 
                     + https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
                  * CS50's Introduction to Artificial Intelligence with Python 2020 
                     + https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv
                  * Computational Thinking - CS50's Computer Science for Business Professionals 2017 
                     + https://www.youtube.com/watch?v=Q2f9h_-_Fv4&list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc
+                 * Computer Science for Business Professional - Computational Thinking
+                    + https://www.youtube.com/watch?v=ngK97cSXWoM
                  * CS50's Understanding Technology 2017
                     + https://www.youtube.com/watch?v=6mbFO0ZLMW8&list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p
+                 * Data Analysis CS109
+                    + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
                  * C$50 Finance 
                     + https://www.youtube.com/watch?v=sPpoqwoY6pI&list=PLhQjrBD2T383KQ0yBY2yQwpYv-OiR-4f1
                  * CS50 Shorts
-                    + https://www.youtube.com/watch?v=uVJ0Il5WvbE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW
-                 * Data Analysis CS109
-                    + https://www.youtube.com/watch?v=83DaZ5s8Gbk&list=PLPylmrRJ8Rt83uEuNpCPt0_9eg5vAEZo4
-                 * Git
-                    + https://cs61.seas.harvard.edu/site/ref/git/
-                 * Desing Principles in REACT
-                    + https://online-learning.harvard.edu/course/design-principles-react?delta=0  
-                 * Cloud Computing
-                    + https://www.youtube.com/watch?v=ngK97cSXWoM
-                 * Computer Science for Business Professional - Computational Thinking
-                    + https://www.youtube.com/watch?v=ngK97cSXWoM
-                 * Programming Languages
-                    + https://www.youtube.com/watch?v=31CxTRTi9ns
-                    + https://www.youtube.com/watch?v=ix5jPkxsr7M // C Programming
+                    + https://www.youtube.com/watch?v=uVJ0Il5WvbE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW         
                  * OOP and AI
                     + https://www.youtube.com/watch?v=g7QWqKj0ch8
-                    + https://www.youtube.com/watch?v=ECMSnU9ilbQ // OOP in Python
-                 * React
-                    + https://www.youtube.com/watch?v=vxU2Rr22GNY // React Basics
-                    + https://www.youtube.com/watch?v=9NQtG_IIh6M // React 1
-                    + https://www.youtube.com/watch?v=D7-Kc3umN5k // React 2
-                    + https://www.youtube.com/watch?v=9j2GIws5OQ4 // Thinking in React
+                    + https://www.youtube.com/watch?v=ECMSnU9ilbQ // OOP in Python      
                  * Regular Expressions
                     + https://www.youtube.com/watch?v=9cCaCwBKf5Y
                  * Docker
                     + https://www.youtube.com/watch?v=VzzwnsLX_5o
-                 * CSS Basics
-                    + https://www.youtube.com/watch?v=DI3789tiKAY
-                 * Boostrap Basics
-                    + https://www.youtube.com/watch?v=LcbR_AiaGdg
-                 * HTML Basics
-                    + https://www.youtube.com/watch?v=GHDo5IaLj70
-                 * Linux Commands Tutorial
-                    + https://www.youtube.com/watch?v=a0EKtHCoCXU
                  * SQL Basics
                     + https://www.youtube.com/watch?v=hAexYxe2YZU
-                 * JavaScript Basics
-                    + https://www.youtube.com/watch?v=28rJgMiFb8M
-                 * GIT and GitHub
-                    + https://www.youtube.com/watch?v=dAHgwd2U0Jg
                  * DevOps with Travis CI
                     + https://www.youtube.com/watch?v=kxEKygtd2eM
-                 * Cryptocurrency Basics
-                    + https://www.youtube.com/watch?v=pSCqqztBBv0
-                 * C tutorial
-                    + https://www.youtube.com/watch?v=MJ0sbMUGbKE&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=22
-                 * Flask tutorial
-                    + https://www.youtube.com/watch?v=2ubExhDWxrg&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=32
-                 * Functional Programming Basics
-                    + https://www.youtube.com/watch?v=h_7LhTnNV-U&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=46
-                 * Python tutorial
-                    + https://www.youtube.com/watch?v=aennIqXu5uI&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=64
+                 * Linux Commands Tutorial
+                    + https://www.youtube.com/watch?v=a0EKtHCoCXU
+                 * Cloud Computing
+                    + https://www.youtube.com/watch?v=ngK97cSXWoM
                  * Kali Linux
                     + https://www.youtube.com/watch?v=UvloP0bCkmY&list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK&index=52
+                 * Cryptocurrency Basics
+                    + https://www.youtube.com/watch?v=pSCqqztBBv0
                  
                    
                  
@@ -394,53 +394,55 @@ progresos!
                     + https://openlearning.mit.edu/
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
-                 *  * Introduction to Computer Science and Programming in Python
+                 * Introduction to Computer Science and Programming in Python
                     + https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+                 * Introduction to Computer Science and Programming in Python, Fall 2016
+                    + https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
+                 * Introduction to Computer Science and Programming 2008
+                    + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
+                 * Introduction to Computational Thinking and Data Science 2016
+                    + https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
                  * The Missing Semester of Your CS Education
                     + https://www.youtube.com/watch?v=Z56Jmr9Z34Q&t=23s
                     + https://missing.csail.mit.edu/2020/course-shell/
-                 * Introduction to Computer Science and Programming 2008
-                    + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
                  * Mathematics for Computer Science 2010
                     + https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
-                 * Performance Engineering of Software Systems 2018
-                    + https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
-                 * Computer Systems Security 2014
-                    + https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
+                 * Introduction to Algortihms, Fall 2020
+                    + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
                  * Algorithms and Computation 2020
                     + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
-                 * Introduction to Computational Thinking and Data Science 2016
-                    + https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
                  * Design and Analysis of Algorithms 
                     + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
                  * Artificial Intelligence 2010
-                    + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
-                 * Cryptocurrency Engineering and Design 2018
-                    + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
-                 * Introduction for 15.S12 Blockchain and Money - Fall 2018
-                    + https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+                    + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp     
                  * MIT Deep Learning and Artificial Intelligence Lectures Lex Fridman
                     + https://deeplearning.mit.edu/
                     + https://github.com/lexfridman/mit-deep-learning
                     + https://www.youtube.com/watch?v=s3MuSOl1Rog
+                 * Artificial Intelligence and Machine Learning 2020
+                    + https://www.youtube.com/watch?v=t4K6lney7Zw
+                 * Software Construction in Java
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/course/
+                 * Advanced Software Construction in Java
+                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about
+                 * Cryptocurrency Engineering and Design 2018
+                    + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
+                 * Introduction for 15.S12 Blockchain and Money - Fall 2018
+                    + https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+                 * Performance Engineering of Software Systems 2018
+                    + https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+                 * System Dynamics: Systems Thinking for a Complex World
+                    + https://www.youtube.com/watch?v=o-Yp8A7BPE8&list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3&index=1
+                 * Computer Systems Security 2014
+                    + https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
                  * Electricity and Magnetism: Electrostatics
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about
                  * Electricity and Magnetism: Maxwell's Equations
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about
                  * Electricity and Magnetism: Magnetic Fiels and Forces
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about
-                 * Software Construction in Java
-                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/course/
-                 * Advanced Software Construction in Java
-                    + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about
-                 * System Dynamics: Systems Thinking for a Complex World
-                    + https://www.youtube.com/watch?v=o-Yp8A7BPE8&list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3&index=1
-                 * Full Stack Development with MERN
-                    + https://executive-ed.xpro.mit.edu/professional-certificate-coding
-                 * Artificial Intelligence and Machine Learning 2020
-                    + https://www.youtube.com/watch?v=t4K6lney7Zw
-                 * Introduction to Algortihms, Fall 2020
-                    + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+                
+                    
                 
                 
                     
@@ -468,8 +470,6 @@ progresos!
                      
                      
               Princeton
-                 * Bitcoin And Cryptocurrency Lectures
-                     + https://www.youtube.com/watch?v=fOMVZXLjKYo&list=PLGviaF-Rdsba9pAuUgugeODELmeZbnWoq
                  * Computer Architecture 
                      + Part 1: https://www.youtube.com/watch?v=9nuAjYRbITQ
                      + Part 2: https://www.youtube.com/watch?v=foCkCSZXOt8
@@ -480,6 +480,8 @@ progresos!
                     + https://www.coursera.org/learn/algorithms-part2
                  * Computer Science: Algorithms, Theory, and Machines
                     + https://www.coursera.org/learn/cs-algorithms-theory-machines
+                 * Bitcoin And Cryptocurrency Lectures
+                    + https://www.youtube.com/watch?v=fOMVZXLjKYo&list=PLGviaF-Rdsba9pAuUgugeODELmeZbnWoq
                                    
               Cornell
                  * CS 5787: Applied Machine Learning
