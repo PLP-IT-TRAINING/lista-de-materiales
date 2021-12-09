@@ -439,6 +439,8 @@ progresos!
                     + https://executive-ed.xpro.mit.edu/professional-certificate-coding
                  * Artificial Intelligence and Machine Learning 2020
                     + https://www.youtube.com/watch?v=t4K6lney7Zw
+                 * Introduction to Algortihms, Fall 2020
+                    + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
                 
                 
                     
