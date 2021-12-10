@@ -364,6 +364,8 @@ progresos!
                       + https://web.stanford.edu/class/cs142/projects.html
                  * CS144 - Introduction to Computer Networking
                       + https://www.youtube.com/watch?v=qAFI-2I7wPE&list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
+                 * CS164 - Mobile Software Engineering
+                      + https://www.youtube.com/c/CS164/videos
                  * EE104 - Introduction to Machine Learning 2020
                       + https://www.youtube.com/watch?v=jbNVUCRMUP0&list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK
                  * CS229 - Machine Learning 2018 
@@ -400,9 +402,11 @@ progresos!
                     + https://openlearning.mit.edu/
                  * Introductory Programming Courses (Python, Java, C, C++)
                     + https://ocw.mit.edu/courses/intro-programming/#language
+                 * Introduction to Java
+                    + https://www.youtube.com/watch?v=oqnLQVFaqYI&list=PLXqaWKDQpdPn4UJ2fOFxl6Yl_DC51FFUL
                  * Introduction to Computer Science and Programming in Python
                     + https://www.edx.org/course/introduction-to-computer-science-and-programming-7
-                 * Introduction to Computer Science and Programming in Python, Fall 2016
+                 * 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016
                     + https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
                  * Introduction to Computer Science and Programming 2008
                     + https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V
@@ -411,15 +415,15 @@ progresos!
                  * The Missing Semester of Your CS Education
                     + https://www.youtube.com/watch?v=Z56Jmr9Z34Q&t=23s
                     + https://missing.csail.mit.edu/2020/course-shell/
-                 * Mathematics for Computer Science 2010
+                 * 6.042J Mathematics for Computer Science 2010
                     + https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
-                 * Introduction to Algortihms, Fall 2020
+                 * 6.006 Introduction to Algortihms, Fall 2020
                     + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
                  * Algorithms and Computation 2020
                     + https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
-                 * Design and Analysis of Algorithms 
+                 * 6.046J Design and Analysis of Algorithms (2015)
                     + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
-                 * Artificial Intelligence 2010
+                 * 6.034 Artificial Intelligence, Fall 2010
                     + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp     
                  * MIT Deep Learning and Artificial Intelligence Lectures Lex Fridman
                     + https://deeplearning.mit.edu/
@@ -435,13 +439,15 @@ progresos!
                     + https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
                  * Introduction for 15.S12 Blockchain and Money - Fall 2018
                     + https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
-                 * Performance Engineering of Software Systems 2018
+                 * 6.172 Performance Engineering of Software Systems 2018
                     + https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
                  * System Dynamics: Systems Thinking for a Complex World
                     + https://www.youtube.com/watch?v=o-Yp8A7BPE8&list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3&index=1
                  * Computer Systems Security 2014
                     + https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
-                 * Distributed Systems (2020 - 6.824)
+                 * 6.033 Computer Systems Engineering (2005)
+                    + https://www.youtube.com/watch?v=zm2VP0kHl1M&list=PL6535748F59DCA484
+                 * 6.824 Distributed Systems (2020)
                     + https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
                  * Electricity and Magnetism: Electrostatics
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about
@@ -451,8 +457,24 @@ progresos!
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about
                  * Introduction to Electrical Engineering and Computer Science, Fall 2011
                     + https://www.youtube.com/watch?v=3S4cNfl0YF0
-                
+                 * CMS.611 Fall 2014 Creating Video Games
+                    + https://www.youtube.com/watch?v=pfDfriSjFbY&list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk
+                 * 6.832, Spring 2009 Underactuated Robotics
+                    + https://www.youtube.com/watch?v=Z8oMbOj9IWM&list=PL58F1D0056F04CF8C
+                    + https://www.youtube.com/watch?v=oVaTKBlfPyA (2018)
                     
+                 * Recommended by 6.00 Introduction to Computer Science and Programming, Fall 2008
+                   - 6.01 
+                   - 6.034 Introduction to AI (Python)
+                   - 6.004 Software Engineering
+                   - 6.006 Advanced Algorithms
+                   
+                * MIT India - Introduction to Software Engineering
+                   - https://www.youtube.com/watch?v=Z6f9ckEElsU&list=PLE6ACA9844B16363B
+                   
+                * IIT Kharagpur - Software Engineering
+                   - https://www.youtube.com/watch?v=zm2VP0kHl1M&list=PL6535748F59DCA484
+                  
                 
                 
                     
