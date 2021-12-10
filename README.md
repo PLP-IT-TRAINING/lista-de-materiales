@@ -338,6 +338,7 @@ progresos!
                     
                  * Introduction to Game Development
                     + https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh
+                    * https://www.youtube.com/playlist?list=PLhQjrBD2T382mHvZB-hSYWvoLzYQzT_Pb //2019
                  
                    
                  
