@@ -529,7 +529,7 @@ progresos!
                  * CS 5787: Applied Machine Learning
                      + https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
                      + https://github.com/kuleshov/cornell-cs5785-2020-applied-ml
-                 * CS4780 Machine Learning for Decision Making
+                 * CS 4780: Machine Learning for Decision Making
                      + https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
                         
                Caltech
