@@ -448,6 +448,8 @@ progresos!
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about
                  * Electricity and Magnetism: Magnetic Fiels and Forces
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about
+                 * Introduction to Electrical Engineering and Computer Science, Fall 2011
+                    + https://www.youtube.com/watch?v=3S4cNfl0YF0
                 
                     
                 
