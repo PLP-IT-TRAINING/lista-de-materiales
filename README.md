@@ -361,6 +361,8 @@ progresos!
                  * CS142 - HTML, CSS, JavaScript, React
                       + http://web.stanford.edu/class/cs142/lectures.html
                       + https://web.stanford.edu/class/cs142/projects.html
+                 * CS144 - Introduction to Computer Networking
+                      + https://www.youtube.com/watch?v=qAFI-2I7wPE&list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
                  * EE104 - Introduction to Machine Learning 2020
                       + https://www.youtube.com/watch?v=jbNVUCRMUP0&list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK
                  * CS229 - Machine Learning 2018 
@@ -438,6 +440,8 @@ progresos!
                     + https://www.youtube.com/watch?v=o-Yp8A7BPE8&list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3&index=1
                  * Computer Systems Security 2014
                     + https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
+                 * Distributed Systems (2020 - 6.824)
+                    + https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
                  * Electricity and Magnetism: Electrostatics
                     + https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about
                  * Electricity and Magnetism: Maxwell's Equations
@@ -463,10 +467,20 @@ progresos!
                      + https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk
                  * UC Berkeley CS 61A Screencasts - Summer 2019
                      + https://www.youtube.com/watch?v=vYynOGcDW-8&list=PLx38hZJ5RLZc2lUzubnMKpnniy8cHjD3T
-                 * UC Berkeley CS 188 Artificial Intelligence 2018
-                     + https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF
+                 * UC Berkley CS 186 - Introduction to Database System
+                     + https://www.youtube.com/watch?v=j-iq40QBJy8&list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge
                  * UC Berkeley CS 182 Deep Learning Spring 2021
                      + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
+                 * UC Berkeley CS 188 Artificial Intelligence 2018
+                     + https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF
+             
+              Steven Skiena
+                  * https://www.youtube.com/user/StevenSkiena
+              
+              Alex Aikens
+                  * https://www.edx.org/course/compilers // Compilers
+                  * https://www.youtube.com/watch?v=SNWHmnWzJAI&list=PLoCMsyE1cvdUZRe1udlyjpzTww1U5olL2 // CS143 Compilers
+                  
                      
               Yale
                   * https://oyc.yale.edu/ // Look for Italian Language
