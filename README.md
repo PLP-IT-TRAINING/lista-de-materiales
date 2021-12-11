@@ -294,6 +294,7 @@ progresos!
                     + https://www.youtube.com/watch?v=9NQtG_IIh6M // React 1
                     + https://www.youtube.com/watch?v=D7-Kc3umN5k // React 2
                     + https://www.youtube.com/watch?v=9j2GIws5OQ4 // Thinking in React
+                    + https://www.youtube.com/watch?v=3HMtarQAt3A // Frontend Development with React
                  * Desing Principles in REACT
                     + https://online-learning.harvard.edu/course/design-principles-react?delta=0  
                  * Git
