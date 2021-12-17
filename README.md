@@ -463,6 +463,8 @@ progresos!
                  * 6.832, Spring 2009 Underactuated Robotics
                     + https://www.youtube.com/watch?v=Z8oMbOj9IWM&list=PL58F1D0056F04CF8C
                     + https://www.youtube.com/watch?v=oVaTKBlfPyA (2018)
+                 * 6.046, Design and Analysis of Algorithms (2015)
+                    + https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
                     
                  * Recommended by 6.00 Introduction to Computer Science and Programming, Fall 2008
                    - 6.01 
