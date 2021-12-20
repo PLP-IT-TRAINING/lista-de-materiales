@@ -195,7 +195,79 @@ progresos!
 
 **Super recomendado** para aprender JavaScript y Front-End con React. Este **NO ES** el programa del Gobierno, sino un esfuerzo colectivo de Reddit Argentina. 
    
-## CISA
+## From Jobless to 70k path
+      * Mid-March - Pandemic hits the US hard, the store whose restaurants I worked at declared bankruptcy. I buy a laptop.
+
+         April 21st to May 11th20th - Harvard's CS50x online course (edit: for some reason this is the one date people feel strongly about)
+
+         May 21th to late May - Harvard's CS50's Web Programming online course
+
+         June to December - A few odd Python projects
+
+         December 26th to January 18th - FreeCodeCamp Front End courses, Leetcode daily challenges
+
+         January 18th -
+
+         u/LottaCloudMoney's "How I went from $14hr to 70k with no experience" post
+
+         u/neilthecellist's "Tossing my coin that hat too... ("I'm a college Dropout making six figures!") -- and some thoughts on advancing your IT career" post
+
+         u/dreadstar's "Response to NetworkChuck's "If I had to start over... which IT path would I take?" live" post
+
+         The DevOps roadmap by Kamran Ahmed (Front and Back-end roadmaps are there too)
+
+         January 19th to late February - mastermnd's free DevOps and AWS "boot camp", a few youtube videos
+
+         February 1st - AWS Certified Cloud Practitioner studies + exam
+
+         February 18th - Found the OSSU project (guide/resource for self-taught CS education)
+
+         February 20th to March 6th - MIT's The Missing Semester of Your CS Education course
+
+         March 8th to March 16th - nand2tetris I
+
+         March 18th to April 22nd - AWS Solutions Architect Associate studies - Maarek's videos ($10) + Bonso's practice exams ($10)
+
+         April 23rd - AWS SAA exam
+
+         April 24th to May 28th - AWS SysOps Associate studies - Maarek's videos ($15) + Bonso's practice exams ($10)
+
+         May 29th - AWS SOA exam
+
+         June 5th to June 8th - Cloud Resume Challenge
+
+         June 13th to June 22nd - Amazon DynamoDB Deep Dive ACG course
+
+         June 22nd to June 27th - Revamped my LinkedIn
+
+         June 27th - First (and only) recruiter approaches me about a job
+
+         June 28th to July 19th - CompTIA A+ Core 1 studies - Messer's videos and practice exams ($12.50)
+
+         July 20th - CompTIA A+ Core 1 exam
+
+         July 20th to July 31st - CompTIA A+ Core 2 studies - Messer's videos and practice exams ($12.50)
+
+         July 31st - CompTIA A+ Core 2 exam
+
+         August 1st to August 7th - The Docker Handbook, The Flask Mega-Tutorial
+
+         August 7th to 19th - CompTIA Network+ studies - Messer's videos + Jason Dion's Practice Exams ($10)
+
+         August 20th - CompTIA Network+ exam
+
+         Late August - First day of new job
+         
+         Certs
+         
+      Cert	               Video Course	   Practice    Test	   Practice    Test  Scores	Exam Score
+      AWS SAA	            Stephane Maarek	Jon Bonso	78%, 76%, 78%, 83%, 81%, 72%	843 (Graded 100-1000, Pass = 720)
+      AWS SOA	            Stephane Maarek	Jon Bonso	80%, 80%, 80%, 92%, 72%	895 (Graded 100-1000, Pass = 720)
+      CompTIA A+ (Core 1)	Prof. Messer	   Prof. Messer	75, 77, 79/90	792 (Graded 100-900, Pass = 675)
+      CompTIA A+ (Core 2)	Prof. Messer	   Prof. Messer	70, 78, 81/90	789 (Graded 100-900, Pass = 675)
+      CompTIA Network+	   Prof. Messer	   Jason Dion	74%, 78%, 70%	768 (Graded 100-900, Pass = 720)
+      
+   ## CISA
       * https://www.cisa.gov/cybersecurity-training-exercises USA Government
       
 ## VeteranSec
