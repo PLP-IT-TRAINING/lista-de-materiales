@@ -911,6 +911,8 @@ progresos!
       * https://internfreak.co/jobs-and-internship-opportunities?page=3&limit=15
       
       * https://ec.europa.eu/search/?swlang=es&queryText=junior+software+engineer // Pagina oficial de la Union Europea
+      
+      * https://www.freecodecamp.org/news/tag/internships/
 
 ## Otros
 
