@@ -106,7 +106,8 @@ progresos!
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
     
-   
+## Stack Overflow
+    * https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
         
         
 ## COBOL
