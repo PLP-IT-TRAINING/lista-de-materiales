@@ -547,6 +547,7 @@ progresos!
                    - 6.034 Introduction to AI (Python)
                    - 6.004 Software Engineering
                    - 6.006 Advanced Algorithms
+                   - 6.036 Machine Learning in Python
                    
                 * MIT India - Introduction to Software Engineering
                    - https://www.youtube.com/watch?v=Z6f9ckEElsU&list=PLE6ACA9844B16363B
