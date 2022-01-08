@@ -108,6 +108,12 @@ progresos!
         
 ## Github - git tutorial
     * https://www.youtube.com/watch?v=HwrPhOp6-aM&list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL
+    * https://www.youtube.com/watch?v=hJLaXNMz8zw&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY
+    * https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH
+    * https://www.youtube.com/watch?v=SCZF6I-Rc4I&list=PLg7s6cbtAD15Das5LK9mXt_g59DLWxKUe
+    * https://www.youtube.com/watch?v=QfmYUiXMs2E&list=PLg7s6cbtAD168bAd2P4Z0bEUxYMUcyoq1
+    * https://www.youtube.com/watch?v=aJnFGMclhU8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW
+    * https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL
     
 ## Stack Overflow
     * https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
