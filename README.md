@@ -140,6 +140,9 @@ progresos!
 ## You Don't Know JS
     * Book series
  
+## Lenguaje JS
+    * https://lenguajehtml.com/html/
+ 
 ## LeetCode
     * https://leetcode.com/
     
