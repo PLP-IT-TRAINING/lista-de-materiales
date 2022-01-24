@@ -389,6 +389,7 @@ progresos!
                     + https://cs61.seas.harvard.edu/site/ref/git/
                  * GIT and GitHub
                     + https://www.youtube.com/watch?v=dAHgwd2U0Jg
+                    + https://www.youtube.com/watch?v=lG90LZotrpo
                  * CS50's Web Programming with Python and JavaScript 2020 
                     + https://www.youtube.com/watch?v=Nn7EX3zkGUo&list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
                  * CS50's Introduction to Artificial Intelligence with Python 2020 
