@@ -591,6 +591,9 @@ progresos!
                      + https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
                  * UC Berkeley CS 188 Artificial Intelligence 2018
                      + https://www.youtube.com/watch?v=16Dir4QqCUg&list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF
+                     
+              University of Michigan - Dr Chuck
+                  * https://online.dr-chuck.com/
              
               Steven Skiena
                   * https://www.youtube.com/user/StevenSkiena
