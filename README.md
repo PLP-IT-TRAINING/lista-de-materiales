@@ -105,6 +105,8 @@ progresos!
         + https://www.youtube.com/watch?v=yzeVMecydCE
     * Excel 
         + https://www.youtube.com/watch?v=Vl0H-qTclOg&t=255s
+    * AutoCAD
+        + https://www.youtube.com/watch?v=VtLXKU1PpRU&t=38s
         
 ## Github - git tutorial
     * https://www.youtube.com/watch?v=HwrPhOp6-aM&list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL
