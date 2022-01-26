@@ -967,6 +967,9 @@ progresos!
       
       * https://www.michaelpage.es/
       
+# Algorithms 
+      * https://the-algorithms.com/es
+      
       
 # Online Learning Review
       * https://www.bitdegree.org/online-learning-platforms
