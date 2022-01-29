@@ -108,6 +108,9 @@ progresos!
     * AutoCAD
         + https://www.youtube.com/watch?v=VtLXKU1PpRU&t=38s
         
+## John Smilga courses
+    * https://www.johnsmilga.com/
+        
 ## Github - git tutorial
     * https://www.youtube.com/watch?v=HwrPhOp6-aM&list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL
     * https://www.youtube.com/watch?v=hJLaXNMz8zw&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY
