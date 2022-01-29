@@ -147,6 +147,9 @@ progresos!
  
 ## Lenguaje JS
     * https://lenguajehtml.com/html/
+
+## Python
+    * https://realpython.com/
  
 ## LeetCode
     * https://leetcode.com/
