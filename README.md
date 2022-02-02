@@ -687,7 +687,8 @@ progresos!
       * https://grow.google/androiddev/#?modal_active=none
             
 ## Microsoft
-      * https://docs.microsoft.com/en-us/learn/topics/universities               
+      * https://docs.microsoft.com/en-us/learn/topics/universities
+      * https://www.youtube.com/c/MicrosoftDeveloper/playlists
                  
 ## Master of Project  
       * https://masterofproject.com/courses/category/FREE%20Courses             
