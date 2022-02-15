@@ -108,6 +108,9 @@ progresos!
     * AutoCAD
         + https://www.youtube.com/watch?v=VtLXKU1PpRU&t=38s
         
+## JetBrains
+    * https://hyperskill.org/tracks 
+        
 ## Scrimba
     * https://scrimba.com/learn/frontend
         
