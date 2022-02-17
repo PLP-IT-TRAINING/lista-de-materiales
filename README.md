@@ -980,6 +980,9 @@ progresos!
       
       * https://www.michaelpage.es/
       
+# QA
+      * https://sqa.stackexchange.com/
+      
 # Algorithms 
       * https://the-algorithms.com/es
       
