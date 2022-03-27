@@ -799,6 +799,7 @@ progresos!
 # DevOps
       * https://geekflare.com/es/learn-devops/
       * https://medium.com/javarevisited/10-free-online-courses-to-learn-devops-for-beginners-9feadb644f50
+      * https://www.youtube.com/watch?v=j5Zsa_eOXeY
 
 # Busqueda de trabajos 
 
