@@ -1011,3 +1011,10 @@ progresos!
       * https://descubreestonia.com/emprender-en-estonia/como-ser-residente-estonia/
       * https://librestado.com/blog/trasladar-residencia-fiscal/
       * https://mevoyalmundo.com/agencias-empleo-suiza/
+      
+# Interview preparation
+      * https://codility.com
+      * https://codingcompetitionswithgoogle.com/codejan
+      * https://www.topcoder.com
+      * https://codeforces.com
+      * https://projecteuler.net
