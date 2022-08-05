@@ -991,6 +991,8 @@ progresos!
       
       * https://thecolony.me
       
+      * https://entrylevelsoftwarejobs.com/
+      
 # QA
       * https://sqa.stackexchange.com/
       
