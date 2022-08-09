@@ -996,8 +996,9 @@ progresos!
 # QA
       * https://sqa.stackexchange.com/
       
-# Algorithms 
+# Algorithms & Data Structures
       * https://the-algorithms.com/es
+      * https://structy.net/
       
       
 # Online Learning Review
