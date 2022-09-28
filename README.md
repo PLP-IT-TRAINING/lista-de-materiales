@@ -110,6 +110,9 @@ progresos!
     * Data Structures and Algorithms
         + https://structy.net/
         
+# Deep Learning
+    * https://course.fast.ai/
+        
 # Open Source
   * https://www.firsttimersonly.com/
   * https://contributor.ninja/
@@ -131,6 +134,13 @@ progresos!
 # Python
  * https://wiki.python.org.ar/aprendiendopython/
  * https://www.python.org.ar/trabajo/
+ 
+ # Firebase
+    * https://firebase.google.com/docs/build?hl=en
+    
+ # MongoDB
+    * https://university.mongodb.com/courses/M001/about?utm_campaign=new_students&utm_source=partner&utm_medium=referral
+    * https://university.mongodb.com/courses/M220JS/about?utm_campaign=new_students&utm_source=partner&utm_medium=referral
  
 ## .NET
     * https://learn.coderfoundry.com/
@@ -159,6 +169,7 @@ progresos!
     
 ## Stack Overflow
     * https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+ 
         
         
 ## COBOL
