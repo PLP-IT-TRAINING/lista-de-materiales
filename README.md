@@ -131,10 +131,6 @@ progresos!
  * https://learnjavascript.online/
  * https://devdocs.io/
 
-# Python
- * https://wiki.python.org.ar/aprendiendopython/
- * https://www.python.org.ar/trabajo/
- 
  # Firebase
     * https://firebase.google.com/docs/build?hl=en
     
@@ -145,7 +141,6 @@ progresos!
 ## .NET
     * https://learn.coderfoundry.com/
     
-
 ## Coding Commanders - FCC
     * https://www.codingcommanders.com/logic.php
         
@@ -169,8 +164,6 @@ progresos!
     
 ## Stack Overflow
     * https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
- 
-        
         
 ## COBOL
     * https://go4it.solutions/es/blog/que-herramientas-necesitas-para-programar-en-cobol
@@ -198,6 +191,9 @@ progresos!
 
 ## Python
     * https://realpython.com/
+    * https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+    * https://wiki.python.org.ar/aprendiendopython/
+    * https://www.python.org.ar/trabajo/
  
 ## LeetCode
     * https://leetcode.com/
@@ -339,7 +335,7 @@ progresos!
       CompTIA A+ (Core 2)	Prof. Messer	   Prof. Messer	70, 78, 81/90	789 (Graded 100-900, Pass = 675)
       CompTIA Network+	   Prof. Messer	   Jason Dion	74%, 78%, 70%	768 (Graded 100-900, Pass = 720)
       
-   ## CISA
+## CISA
       * https://www.cisa.gov/cybersecurity-training-exercises USA Government
       
 ## VeteranSec
