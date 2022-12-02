@@ -759,6 +759,15 @@ progresos!
 ## Teach Yourself Computer Science - Lectures + Videos + Books (Stanford, UC Berkeley, MIT)
     * https://teachyourselfcs.com/
 
+## What cs majors should know
+   * https://matt.might.net/articles/what-cs-majors-should-know/
+   
+## A Self-Learning, Modern Computer Science Curriculum
+   * https://functionalcs.github.io/curriculum/
+   
+## Automate the boring stuff with Python
+   * http://automatetheboringstuff.com/
+
 ## Download Free Books 
     * https://book4you.org/?signAll=1&ts=1729
 
