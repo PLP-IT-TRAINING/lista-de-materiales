@@ -161,6 +161,7 @@ progresos!
     * https://www.youtube.com/watch?v=QfmYUiXMs2E&list=PLg7s6cbtAD168bAd2P4Z0bEUxYMUcyoq1
     * https://www.youtube.com/watch?v=aJnFGMclhU8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW
     * https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL
+    * https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches
     
 ## Stack Overflow
     * https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
@@ -226,6 +227,9 @@ progresos!
  
 ## Frontend Mentor
     * https://www.frontendmentor.io/
+    
+## Frontend Masters
+    * https://frontendmasters.com/guides/front-end-handbook/2019/
 
 ## CodeWars
      * https://www.codewars.com/
@@ -260,7 +264,6 @@ progresos!
           * https://www.hackerrank.com/
  
 ## Advent of Code
-   
       * https://adventofcode.com 
       
 ## /r/Argentina PROGRAMA 
@@ -773,7 +776,6 @@ progresos!
     * https://studies.helsinki.fi/courses?customCodeUrns=hy-org-48645785&page=3&searchText=&studyYear=2021&teachingLanguageUrn=urn%3Acode%3Alanguage%3Aen&type=urn%3Acode%3Acustom%3Ahy-university-root-id%3Aopintotarjonta%3Amooc&type=urn%3Acode%3Acustom%3Ahy-university-root-id%3Aopintotarjonta%3Averkko_kurssi&type=urn%3Acode%3Aassessment-item-type%3Aindependent-work
 
 ## The Odin Project
-
     Una alternativa a FreeCodeCamp es The Odin Project. No tiene tanta variedad de contenido.
           * https://www.theodinproject.com/
     
@@ -793,28 +795,23 @@ progresos!
     * https://book4you.org/?signAll=1&ts=1729
 
 ## Apuntes
-
     * Los apuntes de Majo 
          + https://losapuntesdemajo.vercel.app/
 
 
 ## OTROS RECURSOS:
-
     * How I went from jobless to 70k with no experience/degree/connections/previous knowledge (in half a year)                                                                                        https://www.reddit.com/r/cscareerquestions/comments/p2pmvm/how_i_went_from_jobless_to_70k_with_no/ 
 
 # Free Courses
-
     * Coleccion de recursos gratuitos!
        + https://freecourses.github.io/
 
 
 # DATA SCIENCE
-
      * DataCamp, hacen certificaciones 
        + https://www.datacamp.com/ 
 
 # Lista de Slacks y Discords para buscar ayuda, hacer networking, y buscar trabajo
-
     * DEVS ARGENTINOS: Grupo de devs Argentinos. 
          + https://nmobregon.github.io/devsargentinos/
 
