@@ -714,6 +714,21 @@ progresos!
                  * https://www.coursera.org/specializations/full-stack-react
                  * https://www.coursera.org/learn/server-side-nodejs
                  
+## Linux
+      * Linux Fundamentals Tutorials
+      
+      * Initial Server Setup with Ubuntu 16.04
+         https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
+
+      * Getting Started with Linux
+         https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux
+
+       * How to write a simple shell script on a VPS
+         https://www.digitalocean.com/community/tutorials/how-to-write-a-simple-shell-script-on-a-vps
+
+       * SSH essentials
+         https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys
+                 
 ## Oracle
       * https://www.oracle.com/ar/education/oracle-next-education/
      
