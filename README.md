@@ -194,7 +194,12 @@ progresos!
     * https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
     * https://wiki.python.org.ar/aprendiendopython/
     * https://www.python.org.ar/trabajo/
- 
+    * How to install and setup a local programming environment for Python 
+      https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-python-3
+    * How to crawl a web page with scrapy and Python https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
+    * How To Create a Twitter app with Python https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app
+    * How to make a simple calculator program in Python https://www.digitalocean.com/community/tutorials/how-to-make-a-simple-calculator-program-in-python-3
+
 ## LeetCode
     * https://leetcode.com/
     
