@@ -1033,6 +1033,28 @@ progresos!
       
       * https://entrylevelsoftwarejobs.com/
       
+      * authenticjobs.com
+      
+      * careers.stackoverflow.com
+         
+      * css-tricks.com/jobs
+         
+      * frontenddeveloperjob.com
+
+      * glassdoor.com
+
+      * jobs.github.com
+
+      * linkedin.com
+
+      * remote.com
+
+      * frontendremotejobs.com
+
+      * weworkremotely.com
+
+      * www.smashingmagazine.com/jobs/
+      
 # QA
       * https://sqa.stackexchange.com/
       
