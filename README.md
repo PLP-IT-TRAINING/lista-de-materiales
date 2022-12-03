@@ -723,6 +723,7 @@ progresos!
       * https://www.coursera.org/professional-certificates/google-it-support
       * https://grow.google/certificates/#?modal_active=none
       * https://codingcompetitions.withgoogle.com/codejam
+      * API's Design: https://cloud.google.com/apis/design/
       
    # Associate Android Developer Certification
       * https://grow.google/androiddev/#?modal_active=none
