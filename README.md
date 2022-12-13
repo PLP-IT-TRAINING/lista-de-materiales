@@ -1072,6 +1072,35 @@ progresos!
 
       * www.smashingmagazine.com/jobs/
       
+      Job Sites
+         🌐Angel List
+         🌐Arc.dev - Remote Developer Jobs
+         🌐Find Remote Jobs
+         🌐Github Jobs
+         🌐JavaScript Job
+         🌐JustRemote
+         🌐Jobspresso
+         🌐JSRemotely
+         🌐Jr Dev Jobs
+         🌐Mashable Job Board
+         🌐Outsourcely
+         🌐Powertofly Jobs
+         🌐Producthunt Jobs
+         🌐React Jobs Board
+         🌐Remoters
+         🌐Remote Hub
+         🌐Remote Hunt
+         🌐Remoteco
+         🌐Stackoverflow Jobs
+         🌐Startupers
+         🌐TheRemoteWork
+         🌐We Work Remotely
+         🌐Women Who Code
+         🌐Working Nomads
+         🌐YC Startup Jobs
+         🌐Circular
+         🌐Honeypot
+      
 # QA
       * https://sqa.stackexchange.com/
       
@@ -1102,3 +1131,9 @@ progresos!
       * https://www.topcoder.com
       * https://codeforces.com
       * https://projecteuler.net
+      
+# How to get an Engineer Job
+      * https://www.freecodecamp.org/news/how-to-get-a-software-engineer-job-at-google-and-other-top-tech-companies-efa235a33a6d/
+      * https://selftaught.blog/get-programming-job-without-degree/
+      * https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed
+      * https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/#2-where-should-i-look-for-web-development-jobs
