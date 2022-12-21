@@ -1072,6 +1072,8 @@ progresos!
 
       * www.smashingmagazine.com/jobs/
       
+      * https://www.remote-europe.com/job-category/software-development
+      
       Job Sites
          🌐Angel List
          🌐Arc.dev - Remote Developer Jobs
