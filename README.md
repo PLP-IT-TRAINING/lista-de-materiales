@@ -1074,6 +1074,8 @@ progresos!
       
       * https://www.remote-europe.com/job-category/software-development
       
+      * https://eu-recruit.com/jobs/web-technologies/
+      
       Job Sites
          🌐Angel List
          🌐Arc.dev - Remote Developer Jobs
