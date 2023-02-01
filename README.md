@@ -1106,6 +1106,13 @@ progresos!
          🌐Honeypot
          
          https://frontendremotejobs.com/
+         
+         Devremote (Every type of developer job)
+         Web3.career (Web 3 specific)
+         4dayweek.io (In the name, four days a week jobs)
+         remotefrontendjobs (Frontend only jobs)
+         RubyOnRemote (Ruby jobs)
+         jobsinjs (JavaScript jobs)
       
 # QA
       * https://sqa.stackexchange.com/
