@@ -1104,6 +1104,8 @@ progresos!
          🌐YC Startup Jobs
          🌐Circular
          🌐Honeypot
+         
+         https://frontendremotejobs.com/
       
 # QA
       * https://sqa.stackexchange.com/
