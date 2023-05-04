@@ -1150,3 +1150,13 @@ progresos!
       * https://selftaught.blog/get-programming-job-without-degree/
       * https://towardsdatascience.com/these-are-all-the-resources-that-help-me-land-a-fang-job-452341dd6bed
       * https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/#2-where-should-i-look-for-web-development-jobs
+
+# Documentacion
+   * React
+      - https://legacy.reactjs.org/docs/getting-started.html
+   * Node.js
+      - https://nodejs.org/en/docs
+   * Django
+      - https://www.djangoproject.com/
+   * Git
+      - https://git-scm.com/doc
