@@ -137,9 +137,6 @@ progresos!
  # MongoDB
     * https://university.mongodb.com/courses/M001/about?utm_campaign=new_students&utm_source=partner&utm_medium=referral
     * https://university.mongodb.com/courses/M220JS/about?utm_campaign=new_students&utm_source=partner&utm_medium=referral
- 
-## .NET
-    * https://learn.coderfoundry.com/
     
 ## Coding Commanders - FCC
     * https://www.codingcommanders.com/logic.php
@@ -163,7 +160,7 @@ progresos!
     * https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL
     * https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches
     
-## Stack Overflow
+## Stack Overflow - C
     * https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
         
 ## COBOL
@@ -184,12 +181,6 @@ progresos!
     * https://www.aws.training/
     * https://aws.amazon.com/es/free/devops/ // DevOps
         
-## You Don't Know JS
-    * Book series
- 
-## Lenguaje JS
-    * https://lenguajehtml.com/html/
-
 ## Python
     * https://realpython.com/
     * https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
@@ -246,17 +237,11 @@ progresos!
 ## Bento.io
       * https://bento.io/
       
-## Pluralsight
-      * https://www.pluralsight.com/browse
       
 ## Cybrary (ciberseguridad)
       * https://www.cybrary.it/
-      
-## Hackr.io
-      * https://hackr.io/
-      
-## Skillshare
-      * https://www.skillshare.com/
+
+   
       
 ## HackerRank
 
@@ -346,11 +331,9 @@ progresos!
 ## CISA
       * https://www.cisa.gov/cybersecurity-training-exercises USA Government
       
-## VeteranSec
-      * https://veteransec.com/
-      
 ## The Cyber Mentor
       * https://www.thecybermentor.com/
+      * https://veteransec.com/
       
 ## Cyber Degrees
       * https://www.cyberdegrees.org/resources/free-online-courses/
@@ -364,9 +347,7 @@ progresos!
       * https://nationalcareers.service.gov.uk/find-a-course/page?searchTerm=&town=&courseType=[%22Online%22]&courseHours=[%22%22]&courseStudyTime=[%22%22]&startDate=Anytime&distance=10%20miles&filterA=True&orderByValue=Relevance&coordinates=&campaignCode=LEVEL3_FREE&page=3&D=0
       * https://www.gov.uk/guidance/free-courses-for-jobs
       * https://freecoursesonline.co.uk/free-courses/#Digital
-      
-## The Open University UK
-      * https://www.openuniversity.edu/
+     
       
 ## Free UK courses for the Unemployed
       * https://free2learn.org.uk/digital-skills/
@@ -377,29 +358,16 @@ progresos!
 ## UK Job Website
       * https://www.dezeenjobs.com/
   
-## National Institute of Standars and Technology USA
-      * https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
       
-## Language Courses
-      * https://www.fsi-language-courses.org/fsi-italian-fast-course/
-      
-## Reed Courses
-      * https://www.reed.co.uk/courses/reboot-your-cv-skills/286082#/courses/free
-      
-## Tel Aviv University
-      * https://en-tauonline.tau.ac.il/courses/12
       
 ## Carnegie Mellon University Open Learning
       * https://oli.cmu.edu/product-category/computer-science-programming-indep/
-
-## Moralis
-      * https://moralis.io/
-      * https://academy.moralis.io/courses/blockchain-bitcoin-101
       
-## React Free Courses
+## React
       * https://reactjs.org/community/courses.html
       * https://hackr.io/blog/react-courses
-
+      * https://react.gg/
+      * https://react.dev/learn/tutorial-tic-tac-toe
 
 
 ## Videos de Programacion Youtube (gratis)
@@ -754,18 +722,11 @@ progresos!
 ## Microsoft
       * https://docs.microsoft.com/en-us/learn/topics/universities
       * https://www.youtube.com/c/MicrosoftDeveloper/playlists
-                 
-## Master of Project  
-      * https://masterofproject.com/courses/category/FREE%20Courses             
+                              
           
 ## Bjarne Stroustrup - The Essence of C++ 
       * https://www.youtube.com/watch?v=86xWVb4XIyE&t=672s
                  
-## Tuition Free Colleges
-      + https://www.valuecolleges.com/ranking/best-free-colleges/
-      
-## Free Courses    
-      + https://labor-migration.com/free-courses/
                  
 ## Full Stack Open - University of Helsinki (free)
     * https://fullstackopen.com/en/
@@ -793,6 +754,7 @@ progresos!
 
 ## Download Free Books 
     * https://book4you.org/?signAll=1&ts=1729
+    * libgen
 
 ## Apuntes
     * Los apuntes de Majo 
